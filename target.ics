@@ -5,2933 +5,430 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:黑暗集会 1
-DTSTART;VALUE=DATE:20230709
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-1-746322
+SUMMARY:OVERLORD IV 1
+DTSTART;VALUE=DATE:20220705
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「宝月夜宵」\n\n\n　　灵感少女夜宵因交通事
- 故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为
- 了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵
- 一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「安兹·乌尔·恭魔导国」\n\n\nアインズは悩ん
+ でいた。\nアインズ・ウール・ゴウン魔導国の王として
+ 、この国をどのように導くのか。\n\nアルベド、デミウ
+ ルゴスら優秀なNPCたちと不眠不休で働けるアンデッド
+ によって、\n魔導国は今や安全で飢えもない場所となっ
+ ている。\nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 2
-DTSTART;VALUE=DATE:20230716
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-2-746322
+SUMMARY:OVERLORD IV 2
+DTSTART;VALUE=DATE:20220712
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-2-684688
 CLASS:PUBLIC
-DESCRIPTION:「幻灯河萤多朗」\n\n\n　　灵感少女夜宵因交
- 通事故失去了双亲，母亲的灵魂还在事故时被恶灵夺走
- ，为了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和
- 夜宵一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「里·耶斯提杰王国」\n\n\nアインズは悩んでい
+ た。\nアインズ・ウール・ゴウン魔導国の王として、こ
+ の国をどのように導くのか。\n\nアルベド、デミウルゴ
+ スら優秀なNPCたちと不眠不休で働けるアンデッドによ
+ って、\n魔導国は今や安全で飢えもない場所となってい
+ る。\nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 3
-DTSTART;VALUE=DATE:20230723
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-3-746322
+SUMMARY:OVERLORD IV 3
+DTSTART;VALUE=DATE:20220719
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-3-684688
 CLASS:PUBLIC
-DESCRIPTION:「两人」\n\n\n　　灵感少女夜宵因交通事故失
- 去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找
- 回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起
- 前往恶灵弥漫的灵异地点。
+DESCRIPTION:「巴哈斯帝国」\n\n\nアインズは悩んでいた。\n
+ アインズ・ウール・ゴウン魔導国の王として、この国
+ をどのように導くのか。\n\nアルベド、デミウルゴスら
+ 優秀なNPCたちと不眠不休で働けるアンデッドによって
+ 、\n魔導国は今や安全で飢えもない場所となっている。
+ \nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 4
-DTSTART;VALUE=DATE:20230730
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-4-746322
+SUMMARY:OVERLORD IV 4
+DTSTART;VALUE=DATE:20220726
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-4-684688
 CLASS:PUBLIC
-DESCRIPTION:「宝月咏子」\n\n\n　　灵感少女夜宵因交通事
- 故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为
- 了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵
- 一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「谋略统治者」\n\n\nアインズは悩んでいた。\n
+ アインズ・ウール・ゴウン魔導国の王として、この国
+ をどのように導くのか。\n\nアルベド、デミウルゴスら
+ 優秀なNPCたちと不眠不休で働けるアンデッドによって
+ 、\n魔導国は今や安全で飢えもない場所となっている。
+ \nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 5
-DTSTART;VALUE=DATE:20230806
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-5-746322
+SUMMARY:OVERLORD IV 5
+DTSTART;VALUE=DATE:20220802
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-5-684688
 CLASS:PUBLIC
-DESCRIPTION:「新生欢迎会」\n\n\n　　灵感少女夜宵因交通
- 事故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，
- 为了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜
- 宵一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「求见矮人国」\n\n\nアインズは悩んでいた。\n
+ アインズ・ウール・ゴウン魔導国の王として、この国
+ をどのように導くのか。\n\nアルベド、デミウルゴスら
+ 優秀なNPCたちと不眠不休で働けるアンデッドによって
+ 、\n魔導国は今や安全で飢えもない場所となっている。
+ \nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 6
-DTSTART;VALUE=DATE:20230813
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-6-746322
+SUMMARY:OVERLORD IV 6
+DTSTART;VALUE=DATE:20220809
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-6-684688
 CLASS:PUBLIC
-DESCRIPTION:「约定」\n\n\n　　灵感少女夜宵因交通事故失
- 去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找
- 回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起
- 前往恶灵弥漫的灵异地点。
+DESCRIPTION:「逼近的危机」\n\n\nアインズは悩んでいた。\n
+ アインズ・ウール・ゴウン魔導国の王として、この国
+ をどのように導くのか。\n\nアルベド、デミウルゴスら
+ 優秀なNPCたちと不眠不休で働けるアンデッドによって
+ 、\n魔導国は今や安全で飢えもない場所となっている。
+ \nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 7
-DTSTART;VALUE=DATE:20230820
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-7-746322
+SUMMARY:OVERLORD IV 7
+DTSTART;VALUE=DATE:20220816
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-7-684688
 CLASS:PUBLIC
-DESCRIPTION:「S隧道」\n\n\n　　灵感少女夜宵因交通事故失
- 去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找
- 回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起
- 前往恶灵弥漫的灵异地点。
+DESCRIPTION:「霜之龙王」\n\n\nアインズは悩んでいた。\nア
+ インズ・ウール・ゴウン魔導国の王として、この国を
+ どのように導くのか。\n\nアルベド、デミウルゴスら優
+ 秀なNPCたちと不眠不休で働けるアンデッドによって、\n
+ 魔導国は今や安全で飢えもない場所となっている。\nし
+ か
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 8
-DTSTART;VALUE=DATE:20230827
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-8-746322
+SUMMARY:OVERLORD IV 8
+DTSTART;VALUE=DATE:20220823
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-8-684688
 CLASS:PUBLIC
-DESCRIPTION:「神的新娘」\n\n\n　　灵感少女夜宵因交通事
- 故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为
- 了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵
- 一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「计算之外的一手」\n\n\nアインズは悩んでい
+ た。\nアインズ・ウール・ゴウン魔導国の王として、こ
+ の国をどのように導くのか。\n\nアルベド、デミウルゴ
+ スら優秀なNPCたちと不眠不休で働けるアンデッドによ
+ って、\n魔導国は今や安全で飢えもない場所となってい
+ る。\nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 9
-DTSTART;VALUE=DATE:20230903
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-9-746322
+SUMMARY:OVERLORD IV 9
+DTSTART;VALUE=DATE:20220830
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-9-684688
 CLASS:PUBLIC
-DESCRIPTION:「渎神」\n\n\n　　灵感少女夜宵因交通事故失
- 去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找
- 回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起
- 前往恶灵弥漫的灵异地点。
+DESCRIPTION:「通往灭亡的开始」\n\n\nアインズは悩んでい
+ た。\nアインズ・ウール・ゴウン魔導国の王として、こ
+ の国をどのように導くのか。\n\nアルベド、デミウルゴ
+ スら優秀なNPCたちと不眠不休で働けるアンデッドによ
+ って、\n魔導国は今や安全で飢えもない場所となってい
+ る。\nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 10
-DTSTART;VALUE=DATE:20230910
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-10-746322
+SUMMARY:OVERLORD IV 10
+DTSTART;VALUE=DATE:20220906
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-10-684688
 CLASS:PUBLIC
-DESCRIPTION:「日本全境」\n\n\n　　灵感少女夜宵因交通事
- 故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为
- 了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵
- 一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「最后的王」\n\n\nアインズは悩んでいた。\nア
+ インズ・ウール・ゴウン魔導国の王として、この国を
+ どのように導くのか。\n\nアルベド、デミウルゴスら優
+ 秀なNPCたちと不眠不休で働けるアンデッドによって、\n
+ 魔導国は今や安全で飢えもない場所となっている。\nし
+ か
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 11
-DTSTART;VALUE=DATE:20230917
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-11-746322
+SUMMARY:OVERLORD IV 11
+DTSTART;VALUE=DATE:20220913
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-11-684688
 CLASS:PUBLIC
-DESCRIPTION:「H遗址-危险度S」\n\n\n　　灵感少女夜宵因交
- 通事故失去了双亲，母亲的灵魂还在事故时被恶灵夺走
- ，为了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和
- 夜宵一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「被布下的陷阱」\n\n\nアインズは悩んでいた
+ 。\nアインズ・ウール・ゴウン魔導国の王として、この
+ 国をどのように導くのか。\n\nアルベド、デミウルゴス
+ ら優秀なNPCたちと不眠不休で働けるアンデッドによっ
+ て、\n魔導国は今や安全で飢えもない場所となっている
+ 。\nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 12
-DTSTART;VALUE=DATE:20230924
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-12-746322
+SUMMARY:OVERLORD IV 12
+DTSTART;VALUE=DATE:20220920
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-12-684688
 CLASS:PUBLIC
-DESCRIPTION:「H遗址-毕业生」\n\n\n　　灵感少女夜宵因交通
- 事故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，
- 为了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜
- 宵一起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「王都侵攻」\n\n\nアインズは悩んでいた。\nア
+ インズ・ウール・ゴウン魔導国の王として、この国を
+ どのように導くのか。\n\nアルベド、デミウルゴスら優
+ 秀なNPCたちと不眠不休で働けるアンデッドによって、\n
+ 魔導国は今や安全で飢えもない場所となっている。\nし
+ か
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 13
-DTSTART;VALUE=DATE:20231001
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-13-746322
+SUMMARY:OVERLORD IV 13
+DTSTART;VALUE=DATE:20220927
+DTSTAMP;VALUE=DATE:20231010
+UID:335389-13-684688
 CLASS:PUBLIC
-DESCRIPTION:「出狱」\n\n\n　　灵感少女夜宵因交通事故失
- 去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找
- 回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起
- 前往恶灵弥漫的灵异地点。
+DESCRIPTION:「灭国的魔女」\n\n\nアインズは悩んでいた。\n
+ アインズ・ウール・ゴウン魔導国の王として、この国
+ をどのように導くのか。\n\nアルベド、デミウルゴスら
+ 優秀なNPCたちと不眠不休で働けるアンデッドによって
+ 、\n魔導国は今や安全で飢えもない場所となっている。
+ \nしか
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 14
-DTSTART;VALUE=DATE:20231008
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-14-746322
+SUMMARY:在异世界迷宫开后宫 1
+DTSTART;VALUE=DATE:20220706
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「旧F隧道」\n\n\n　　灵感少女夜宵因交通事故
- 失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了
- 找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一
- 起前往恶灵弥漫的灵异地点。
+DESCRIPTION:「邂逅」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 15
-DTSTART;VALUE=DATE:20231015
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-15-746322
+SUMMARY:在异世界迷宫开后宫 2
+DTSTART;VALUE=DATE:20220713
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-2-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「筹钱」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 16
-DTSTART;VALUE=DATE:20231022
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-16-746322
+SUMMARY:在异世界迷宫开后宫 3
+DTSTART;VALUE=DATE:20220720
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-3-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「获得」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 17
-DTSTART;VALUE=DATE:20231029
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-17-746322
+SUMMARY:在异世界迷宫开后宫 4
+DTSTART;VALUE=DATE:20220727
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-4-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「毕业」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 18
-DTSTART;VALUE=DATE:20231105
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-18-746322
+SUMMARY:在异世界迷宫开后宫 5
+DTSTART;VALUE=DATE:20220803
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-5-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「结晶」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 19
-DTSTART;VALUE=DATE:20231112
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-19-746322
+SUMMARY:在异世界迷宫开后宫 6
+DTSTART;VALUE=DATE:20220810
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-6-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「试炼」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 20
-DTSTART;VALUE=DATE:20231119
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-20-746322
+SUMMARY:在异世界迷宫开后宫 7
+DTSTART;VALUE=DATE:20220817
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-7-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「魔法」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 21
-DTSTART;VALUE=DATE:20231126
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-21-746322
+SUMMARY:在异世界迷宫开后宫 8
+DTSTART;VALUE=DATE:20220824
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-8-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「新居」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 22
-DTSTART;VALUE=DATE:20231203
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-22-746322
+SUMMARY:在异世界迷宫开后宫 9
+DTSTART;VALUE=DATE:20220831
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-9-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「沐浴」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 23
-DTSTART;VALUE=DATE:20231210
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-23-746322
+SUMMARY:在异世界迷宫开后宫 10
+DTSTART;VALUE=DATE:20220907
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-10-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「忧愁」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 24
-DTSTART;VALUE=DATE:20231217
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-24-746322
+SUMMARY:在异世界迷宫开后宫 11
+DTSTART;VALUE=DATE:20220914
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-11-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「次序」\n\n\n某一天，对这个世界绝望了的加
+ 贺道夫发现了一个奇怪的网络游戏。\n游戏中写着，如果
+ 这个世界不好生存的话，就在异世界生活就好了。等待
+ 着设定和角色创建结束的道夫的，是与现实不同的真正
+ 的异世界。\n以存在各种技能、任务、魔法、迷宫等宛如
+ 游戏般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:黑暗集会 25
-DTSTART;VALUE=DATE:20231224
-DTSTAMP;VALUE=DATE:20231009
-UID:390794-25-746322
+SUMMARY:在异世界迷宫开后宫 0
+DTSTART;VALUE=DATE:20221125
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　灵感少女夜宵因交通事故失去了
- 双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜
- 宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往
- 恶灵弥漫的灵异地点。
+DESCRIPTION:「」\n\n\n某一天，对这个世界绝望了的加贺道
+ 夫发现了一个奇怪的网络游戏。\n游戏中写着，如果这个
+ 世界不好生存的话，就在异世界生活就好了。等待着设
+ 定和角色创建结束的道夫的，是与现实不同的真正的异
+ 世界。\n以存在各种技能、任务、魔法、迷宫等宛如游戏
+ 般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 1
-DTSTART;VALUE=DATE:20230709
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-1-746322
+SUMMARY:在异世界迷宫开后宫 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20231010
+UID:322130-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「Akira of the Dead」\n\n\n入职三年，在黑心企业被
- 压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经理凰
- 纱织的恋爱也没法实现，每天都很绝望...\n\n某天，街上
- 突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉，在
- 走投无路中灵光一闪，想出了“改变人生的话”。\n
+DESCRIPTION:「」\n\n\n某一天，对这个世界绝望了的加贺道
+ 夫发现了一个奇怪的网络游戏。\n游戏中写着，如果这个
+ 世界不好生存的话，就在异世界生活就好了。等待着设
+ 定和角色创建结束的道夫的，是与现实不同的真正的异
+ 世界。\n以存在各种技能、任务、魔法、迷宫等宛如游戏
+ 般的异世
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 2
-DTSTART;VALUE=DATE:20230716
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-2-746322
+SUMMARY:新石纪 龙水 1
+DTSTART;VALUE=DATE:20220710
+DTSTAMP;VALUE=DATE:20231010
+UID:331479-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「Bucket List of the Dead」\n\n\n入职三年，在黑心企
- 业被压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经
- 理凰纱织的恋爱也没法实现，每天都很绝望...\n\n某天，
- 街上突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉
- ，在走投无路中灵光一闪，想出了“改变人生的话”。\n
- 
+DESCRIPTION:「」\n\n\n司帝国との戦いが終わり、コールド
+ スリープした司を救うべく動き出した千空たち。\n石化
+ 現象の謎を突き止める為、ついに科学王国は地球の裏
+ 側・新世界を目指す！\n\n航海に向けて船造りを始めた
+ 千空たちは、航海力100億の神腕船長を仲間にしようと
+ 、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 3
-DTSTART;VALUE=DATE:20230723
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-3-746322
+SUMMARY:新石纪 龙水 0
+DTSTART;VALUE=DATE:20220612
+DTSTAMP;VALUE=DATE:20231010
+UID:331479-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「Best friend of the Dead」\n\n\n入职三年，在黑心企
- 业被压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经
- 理凰纱织的恋爱也没法实现，每天都很绝望...\n\n某天，
- 街上突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉
- ，在走投无路中灵光一闪，想出了“改变人生的话”。\n
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 4
-DTSTART;VALUE=DATE:20230730
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「CA of the Dead」\n\n\n入职三年，在黑心企业被压
- 榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经理凰纱
- 织的恋爱也没法实现，每天都很绝望...\n\n某天，街上突
- 然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉，在走
- 投无路中灵光一闪，想出了“改变人生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 5
-DTSTART;VALUE=DATE:20230813
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「Hero of the Dead」\n\n\n入职三年，在黑心企业被
- 压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经理凰
- 纱织的恋爱也没法实现，每天都很绝望...\n\n某天，街上
- 突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉，在
- 走投无路中灵光一闪，想出了“改变人生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 6
-DTSTART;VALUE=DATE:20230827
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「RV of the Dead」\n\n\n入职三年，在黑心企业被压
- 榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经理凰纱
- 织的恋爱也没法实现，每天都很绝望...\n\n某天，街上突
- 然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉，在走
- 投无路中灵光一闪，想出了“改变人生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 7
-DTSTART;VALUE=DATE:20230903
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「Truck Stop of the Dead」\n\n\n入职三年，在黑心企
- 业被压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经
- 理凰纱织的恋爱也没法实现，每天都很绝望...\n\n某天，
- 街上突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉
- ，在走投无路中灵光一闪，想出了“改变人生的话”。\n
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 8
-DTSTART;VALUE=DATE:20230917
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「Sushi &amp\; Hot Springs of the Dead」\n\n\n入职三年
- ，在黑心企业被压榨到身心俱疲的天道辉（24岁）。\n\n
- 对憧憬的经理凰纱织的恋爱也没法实现，每天都很绝望..
- .\n\n某天，街上突然爆发了丧尸病毒！\n\n被大量僵尸追
- 赶的天道辉，在走投无路中灵光一闪，想出了“改变人
- 生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 9
-DTSTART;VALUE=DATE:20230924
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「Treehouse of the Dead」\n\n\n入职三年，在黑心企
- 业被压榨到身心俱疲的天道辉（24岁）。\n\n对憧憬的经
- 理凰纱织的恋爱也没法实现，每天都很绝望...\n\n某天，
- 街上突然爆发了丧尸病毒！\n\n被大量僵尸追赶的天道辉
- ，在走投无路中灵光一闪，想出了“改变人生的话”。\n
- 
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 0
-DTSTART;VALUE=DATE:20230806
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n入职三年，在黑心企业被压榨到身心
- 俱疲的天道辉（24岁）。\n\n对憧憬的经理凰纱织的恋爱
- 也没法实现，每天都很绝望...\n\n某天，街上突然爆发了
- 丧尸病毒！\n\n被大量僵尸追赶的天道辉，在走投无路中
- 灵光一闪，想出了“改变人生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 0
-DTSTART;VALUE=DATE:20230910
-DTSTAMP;VALUE=DATE:20231009
-UID:414461-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n入职三年，在黑心企业被压榨到身心
- 俱疲的天道辉（24岁）。\n\n对憧憬的经理凰纱织的恋爱
- 也没法实现，每天都很绝望...\n\n某天，街上突然爆发了
- 丧尸病毒！\n\n被大量僵尸追赶的天道辉，在走投无路中
- 灵光一闪，想出了“改变人生的话”。\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 1
-DTSTART;VALUE=DATE:20230706
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「怀玉」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 2
-DTSTART;VALUE=DATE:20230713
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「怀玉-贰-」\n\n\n这是最强的两人一去不复返的
- 青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内
- 。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时
- 光一路回溯至2006年─春天。高专时代的五条悟与夏油杰
- 。身为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 3
-DTSTART;VALUE=DATE:20230720
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「怀玉-叁-」\n\n\n这是最强的两人一去不复返的
- 青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内
- 。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时
- 光一路回溯至2006年─春天。高专时代的五条悟与夏油杰
- 。身为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 4
-DTSTART;VALUE=DATE:20230727
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「怀玉-肆-」\n\n\n这是最强的两人一去不复返的
- 青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内
- 。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时
- 光一路回溯至2006年─春天。高专时代的五条悟与夏油杰
- 。身为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 5
-DTSTART;VALUE=DATE:20230803
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「玉折」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 6
-DTSTART;VALUE=DATE:20230831
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「那种意思」\n\n\n这是最强的两人一去不复返
- 的青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体
- 内。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n然后
- 时光一路回溯至2006年─春天。高专时代的五条悟与夏油
- 杰。身为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 7
-DTSTART;VALUE=DATE:20230907
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「宵祭」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 8
-DTSTART;VALUE=DATE:20230914
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「涩谷事变」\n\n\n这是最强的两人一去不复返
- 的青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体
- 内。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n然后
- 时光一路回溯至2006年─春天。高专时代的五条悟与夏油
- 杰。身为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 9
-DTSTART;VALUE=DATE:20230921
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「涩谷事变 开门」\n\n\n这是最强的两人一去不
- 复返的青春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自
- 身体内。 2017年12月，乙骨忧太解开祈本里香的诅咒。\n
- 然后时光一路回溯至2006年─春天。高专时代的五条悟与
- 夏油杰。身为表现活跃的咒术师并所向无敌的两人，接
- 到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 10
-DTSTART;VALUE=DATE:20230928
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「昏乱」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 11
-DTSTART;VALUE=DATE:20231005
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「降灵」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 12
-DTSTART;VALUE=DATE:20231012
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「钝刀」\n\n\n这是最强的两人一去不复返的青
- 春。 2018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2
- 017年12月，乙骨忧太解开祈本里香的诅咒。\n然后时光一
- 路回溯至2006年─春天。高专时代的五条悟与夏油杰。身
- 为表现活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 13
-DTSTART;VALUE=DATE:20231019
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-13-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 14
-DTSTART;VALUE=DATE:20231026
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-14-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 15
-DTSTART;VALUE=DATE:20231102
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-15-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 16
-DTSTART;VALUE=DATE:20231109
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-16-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 17
-DTSTART;VALUE=DATE:20231116
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-17-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 18
-DTSTART;VALUE=DATE:20231123
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-18-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 19
-DTSTART;VALUE=DATE:20231130
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-19-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 20
-DTSTART;VALUE=DATE:20231207
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-20-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 21
-DTSTART;VALUE=DATE:20231214
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-21-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 22
-DTSTART;VALUE=DATE:20231221
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-22-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 23
-DTSTART;VALUE=DATE:20231228
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-23-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 0
-DTSTART;VALUE=DATE:20220918
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 0
-DTSTART;VALUE=DATE:20230630
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 0
-DTSTART;VALUE=DATE:20230810
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:咒术回战 第二季 0
-DTSTART;VALUE=DATE:20230817
-DTSTAMP;VALUE=DATE:20231009
-UID:369304-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是最强的两人一去不复返的青春。 2
- 018年6月，虎杖悠仁让两面宿傩寄宿于自身体内。 2017年12
- 月，乙骨忧太解开祈本里香的诅咒。\n然后时光一路回溯
- 至2006年─春天。高专时代的五条悟与夏油杰。身为表现
- 活跃的咒术师并所向无敌的两人，接到
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 1
-DTSTART;VALUE=DATE:20230702
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「守护术师菲兹」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 2
-DTSTART;VALUE=DATE:20230709
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「失意的魔术师」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 3
-DTSTART;VALUE=DATE:20230716
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「深夜里的森林」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 4
-DTSTART;VALUE=DATE:20230723
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「快速进展」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 5
-DTSTART;VALUE=DATE:20230730
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「推荐信」\n\n\n「俺は、この異世界で本気だ
- す！」\n34歳・童貞・無職の引きこもりニート男。\n両
- 親の葬儀の日に家を追い出された瞬間、\nトラックに轢
- かれ命を落としてしまう。\n目覚めると、なんと剣と魔
- 法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 6
-DTSTART;VALUE=DATE:20230806
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「拉诺亚魔法大学」\n\n\n「俺は、この異世界
- で本気だす！」\n34歳・童貞・無職の引きこもりニート
- 男。\n両親の葬儀の日に家を追い出された瞬間、\nトラ
- ックに轢かれ命を落としてしまう。\n目覚めると、なん
- と剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！
- \nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 7
-DTSTART;VALUE=DATE:20230813
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「我不想死」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 8
-DTSTART;VALUE=DATE:20230820
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「兽族大小姐绑架监禁事件」\n\n\n「俺は、こ
- の異世界で本気だす！」\n34歳・童貞・無職の引きこも
- りニート男。\n両親の葬儀の日に家を追い出された瞬間
- 、\nトラックに轢かれ命を落としてしまう。\n目覚める
- と、なんと剣と魔法の\n異世界で赤ん坊に生まれ変わっ
- ていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 9
-DTSTART;VALUE=DATE:20230827
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「绝望的婚约者」\n\n\n「俺は、この異世界で
- 本気だす！」\n34歳・童貞・無職の引きこもりニート男
- 。\n両親の葬儀の日に家を追い出された瞬間、\nトラッ
- クに轢かれ命を落としてしまう。\n目覚めると、なんと
- 剣と魔法の\n異世界で赤ん坊に生まれ変わっていた！\n
- ゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 10
-DTSTART;VALUE=DATE:20230903
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「白色面具」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 11
-DTSTART;VALUE=DATE:20230910
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「这份心意」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 12
-DTSTART;VALUE=DATE:20230917
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「给你」\n\n\n「俺は、この異世界で本気だす
- ！」\n34歳・童貞・無職の引きこもりニート男。\n両親
- の葬儀の日に家を追い出された瞬間、\nトラックに轢か
- れ命を落としてしまう。\n目覚めると、なんと剣と魔法
- の\n異世界で赤ん坊に生まれ変わっていた！\nゴミク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无职转生Ⅱ ～到了异世界就拿出真本事～ 13
-DTSTART;VALUE=DATE:20230924
-DTSTAMP;VALUE=DATE:20231009
-UID:373247-13-746322
-CLASS:PUBLIC
-DESCRIPTION:「想告诉你」\n\n\n「俺は、この異世界で本気
- だす！」\n34歳・童貞・無職の引きこもりニート男。\n
- 両親の葬儀の日に家を追い出された瞬間、\nトラックに
- 轢かれ命を落としてしまう。\n目覚めると、なんと剣と
- 魔法の\n異世界で赤ん坊に生まれ変わっていた！\nゴミ
- ク
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 1
-DTSTART;VALUE=DATE:20230412
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「母亲和孩子」\n\n\n“在演艺圈里，谎言就是
- 武器。 ”\n在小城市工作的妇产科医生・五郎，有一天
- 他所推的偶像“B小町”出现在了他的面前。“B小町”有
- 着一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相
- 遇，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 2
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「第三个选择」\n\n\n“在演艺圈里，谎言就是
- 武器。 ”\n在小城市工作的妇产科医生・五郎，有一天
- 他所推的偶像“B小町”出现在了他的面前。“B小町”有
- 着一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相
- 遇，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 3
-DTSTART;VALUE=DATE:20230426
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「漫画原作连续剧」\n\n\n“在演艺圈里，谎言
- 就是武器。 ”\n在小城市工作的妇产科医生・五郎，有
- 一天他所推的偶像“B小町”出现在了他的面前。“B小町
- ”有着一个禁忌的秘密。\n如此这般的两人实现了最糟糕
- 的相遇，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 4
-DTSTART;VALUE=DATE:20230503
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「演员」\n\n\n“在演艺圈里，谎言就是武器。 
- ”\n在小城市工作的妇产科医生・五郎，有一天他所推的
- 偶像“B小町”出现在了他的面前。“B小町”有着一个禁
- 忌的秘密。\n如此这般的两人实现了最糟糕的相遇，从此
- 命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 5
-DTSTART;VALUE=DATE:20230510
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「恋爱实境秀」\n\n\n“在演艺圈里，谎言就是
- 武器。 ”\n在小城市工作的妇产科医生・五郎，有一天
- 他所推的偶像“B小町”出现在了他的面前。“B小町”有
- 着一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相
- 遇，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 6
-DTSTART;VALUE=DATE:20230517
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「网上自搜」\n\n\n“在演艺圈里，谎言就是武
- 器。 ”\n在小城市工作的妇产科医生・五郎，有一天他
- 所推的偶像“B小町”出现在了他的面前。“B小町”有着
- 一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相遇
- ，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 7
-DTSTART;VALUE=DATE:20230524
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「网络热议」\n\n\n“在演艺圈里，谎言就是武
- 器。 ”\n在小城市工作的妇产科医生・五郎，有一天他
- 所推的偶像“B小町”出现在了他的面前。“B小町”有着
- 一个禁忌的秘密。\n如此这般的两人实现了最糟糕的相遇
- ，从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 8
-DTSTART;VALUE=DATE:20230607
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「第一次」\n\n\n“在演艺圈里，谎言就是武器
- 。 ”\n在小城市工作的妇产科医生・五郎，有一天他所
- 推的偶像“B小町”出现在了他的面前。“B小町”有着一
- 个禁忌的秘密。\n如此这般的两人实现了最糟糕的相遇，
- 从此命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 9
-DTSTART;VALUE=DATE:20230614
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「B小町」\n\n\n“在演艺圈里，谎言就是武器。 
- ”\n在小城市工作的妇产科医生・五郎，有一天他所推的
- 偶像“B小町”出现在了他的面前。“B小町”有着一个禁
- 忌的秘密。\n如此这般的两人实现了最糟糕的相遇，从此
- 命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 10
-DTSTART;VALUE=DATE:20230621
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「压力」\n\n\n“在演艺圈里，谎言就是武器。 
- ”\n在小城市工作的妇产科医生・五郎，有一天他所推的
- 偶像“B小町”出现在了他的面前。“B小町”有着一个禁
- 忌的秘密。\n如此这般的两人实现了最糟糕的相遇，从此
- 命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 11
-DTSTART;VALUE=DATE:20230628
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「偶像」\n\n\n“在演艺圈里，谎言就是武器。 
- ”\n在小城市工作的妇产科医生・五郎，有一天他所推的
- 偶像“B小町”出现在了他的面前。“B小町”有着一个禁
- 忌的秘密。\n如此这般的两人实现了最糟糕的相遇，从此
- 命运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 0
-DTSTART;VALUE=DATE:20230219
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【我推的孩子】 0
-DTSTART;VALUE=DATE:20230531
-DTSTAMP;VALUE=DATE:20231009
-UID:386809-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 1
-DTSTART;VALUE=DATE:20230405
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 将罪孽邪恶之物 祛除净
- 化 御灵大神 恳听吾请 诚惶诚恐」\n\n\n卜部征人的父亲
- 是一个怪异团体的教祖，他在父亲安排的严酷修行中不
- 幸丧命，竟然转生到了异世界！ 这个没有“神”也没有
- “宗教”概念的异世界，对征人而言堪称理想世界！ 然
- 而…为了保护在这里一起生活的居民，征人却不得不在
- 这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 2
-DTSTART;VALUE=DATE:20230412
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 神圣施恩 降临现世 创生
- 万物 御灵大神 恳听吾请 诚惶诚恐」\n\n\n卜部征人的父
- 亲是一个怪异团体的教祖，他在父亲安排的严酷修行中
- 不幸丧命，竟然转生到了异世界！ 这个没有“神”也没
- 有“宗教”概念的异世界，对征人而言堪称理想世界！ 
- 然而…为了保护在这里一起生活的居民，征人却不得不
- 在这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 3
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼其名 御灵大神 尊驾高天原之司命 将世
- 间诸多祸事灾厄 祛除净化 司天地之御灵尊神 御灵大神 
- 恳听吾请 诚惶诚恐」\n\n\n卜部征人的父亲是一个怪异团
- 体的教祖，他在父亲安排的严酷修行中不幸丧命，竟然
- 转生到了异世界！ 这个没有“神”也没有“宗教”概念
- 的异世界，对征人而言堪称理想世界！ 然而…为了保护
- 在这里一起生活的居民，征人却不得不在这个没有神的
- 异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 4
-DTSTART;VALUE=DATE:20230426
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 创造并引导现世 无始无
- 终地 净化诸天七曜九曜二十八宿 净化厚土二十六阵 司
- 天地之御灵尊神 御灵大神 恳听吾请 诚惶诚恐」\n\n\n卜
- 部征人的父亲是一个怪异团体的教祖，他在父亲安排的
- 严酷修行中不幸丧命，竟然转生到了异世界！ 这个没有
- “神”也没有“宗教”概念的异世界，对征人而言堪称
- 理想世界！ 然而…为了保护在这里一起生活的居民，征
- 人却不得不在这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 5
-DTSTART;VALUE=DATE:20230503
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 创造万物之尊 六根清净 
- 为天地生灵之母 赐吾居豐苇原千五百秋瑞穗国 感激涕零
-  司天地之御灵尊神 御灵大神 恳听吾请 诚惶诚恐」\n\n\n
- 卜部征人的父亲是一个怪异团体的教祖，他在父亲安排
- 的严酷修行中不幸丧命，竟然转生到了异世界！ 这个没
- 有“神”也没有“宗教”概念的异世界，对征人而言堪
- 称理想世界！ 然而…为了保护在这里一起生活的居民，
- 征人却不得不在这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 6
-DTSTART;VALUE=DATE:20230510
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御魂大神 于天原之上 司掌日月星
- 宿 于广袤大地之上 司掌人民及生物死物世间所有 乃常
- 世间的大神 御灵大神  恳听吾请 诚惶诚恐」\n\n\n卜部征
- 人的父亲是一个怪异团体的教祖，他在父亲安排的严酷
- 修行中不幸丧命，竟然转生到了异世界！ 这个没有“神
- ”也没有“宗教”概念的异世界，对征人而言堪称理想
- 世界！ 然而…为了保护在这里一起生活的居民，征人却
- 不得不在这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 7
-DTSTART;VALUE=DATE:20230517
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n卜部征人的父亲是一个怪异团体的教
- 祖，他在父亲安排的严酷修行中不幸丧命，竟然转生到
- 了异世界！ 这个没有“神”也没有“宗教”概念的异世
- 界，对征人而言堪称理想世界！ 然而…为了保护在这里
- 一起生活的居民，征人却不得不在这个没有神的异世界
- 建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 8
-DTSTART;VALUE=DATE:20230531
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n卜部征人的父亲是一个怪异团体的教
- 祖，他在父亲安排的严酷修行中不幸丧命，竟然转生到
- 了异世界！ 这个没有“神”也没有“宗教”概念的异世
- 界，对征人而言堪称理想世界！ 然而…为了保护在这里
- 一起生活的居民，征人却不得不在这个没有神的异世界
- 建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 9
-DTSTART;VALUE=DATE:20230607
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n卜部征人的父亲是一个怪异团体的教
- 祖，他在父亲安排的严酷修行中不幸丧命，竟然转生到
- 了异世界！ 这个没有“神”也没有“宗教”概念的异世
- 界，对征人而言堪称理想世界！ 然而…为了保护在这里
- 一起生活的居民，征人却不得不在这个没有神的异世界
- 建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 10
-DTSTART;VALUE=DATE:20230614
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n卜部征人的父亲是一个怪异团体的教
- 祖，他在父亲安排的严酷修行中不幸丧命，竟然转生到
- 了异世界！ 这个没有“神”也没有“宗教”概念的异世
- 界，对征人而言堪称理想世界！ 然而…为了保护在这里
- 一起生活的居民，征人却不得不在这个没有神的异世界
- 建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 11
-DTSTART;VALUE=DATE:20230628
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 太古八州天地初分 国土
- 纷碎 天地之存在 化作为神 称御灵神 司掌万物 孕育人类
-  万物之根源神 御灵大神 恳听吾请 诚惶诚恐」\n\n\n卜部
- 征人的父亲是一个怪异团体的教祖，他在父亲安排的严
- 酷修行中不幸丧命，竟然转生到了异世界！ 这个没有“
- 神”也没有“宗教”概念的异世界，对征人而言堪称理
- 想世界！ 然而…为了保护在这里一起生活的居民，征人
- 却不得不在这个没有神的异世界建立“宗教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:无神世界的神明活动 12
-DTSTART;VALUE=DATE:20230705
-DTSTAMP;VALUE=DATE:20231009
-UID:377607-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「恐呼尊名 御灵大神 大神御前 诚惶诚恐 大神
- 福泽 除凶破恶 护佑苍生 平安行事 神迹降世 祛除灾厄 
- 永尊神位 福泽遍世 竭心拜谒 当下未来 皆承神恩 大神福
- 泽」\n\n\n卜部征人的父亲是一个怪异团体的教祖，他在
- 父亲安排的严酷修行中不幸丧命，竟然转生到了异世界
- ！ 这个没有“神”也没有“宗教”概念的异世界，对征
- 人而言堪称理想世界！ 然而…为了保护在这里一起生活
- 的居民，征人却不得不在这个没有神的异世界建立“宗
- 教”
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 1
-DTSTART;VALUE=DATE:20230401
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「死刑犯与处刑人」\n\n\n时值江户时代末期。\n
- 作为脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”
- ，听闻如果从传说中的极乐净土带回长生不老的仙药，
- 便可以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩
- 首执行人“山田浅卫门佐切”一起，前往仙药所在的小
- 岛。\n画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 2
-DTSTART;VALUE=DATE:20230408
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「挑选与选择」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 3
-DTSTART;VALUE=DATE:20230415
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「弱小与强大」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 4
-DTSTART;VALUE=DATE:20230422
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「地狱与极乐」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 5
-DTSTART;VALUE=DATE:20230429
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「武士与女人」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 6
-DTSTART;VALUE=DATE:20230506
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「心与理」\n\n\n时值江户时代末期。\n作为脱忍
- 被囚禁而死罪的原石隐最强忍者的“画眉丸”，听闻如
- 果从传说中的极乐净土带回长生不老的仙药，便可以无
- 罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执行人
- “山田浅卫门佐切”一起，前往仙药所在的小岛。\n画眉
- 丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 7
-DTSTART;VALUE=DATE:20230513
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「鲜花与祭品」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 8
-DTSTART;VALUE=DATE:20230520
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「徒弟与师父」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 9
-DTSTART;VALUE=DATE:20230603
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「神与人」\n\n\n时值江户时代末期。\n作为脱忍
- 被囚禁而死罪的原石隐最强忍者的“画眉丸”，听闻如
- 果从传说中的极乐净土带回长生不老的仙药，便可以无
- 罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执行人
- “山田浅卫门佐切”一起，前往仙药所在的小岛。\n画眉
- 丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 10
-DTSTART;VALUE=DATE:20230610
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「阴与阳」\n\n\n时值江户时代末期。\n作为脱忍
- 被囚禁而死罪的原石隐最强忍者的“画眉丸”，听闻如
- 果从传说中的极乐净土带回长生不老的仙药，便可以无
- 罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执行人
- “山田浅卫门佐切”一起，前往仙药所在的小岛。\n画眉
- 丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 11
-DTSTART;VALUE=DATE:20230617
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「弱者与强者」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 12
-DTSTART;VALUE=DATE:20230624
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「伞与墨」\n\n\n时值江户时代末期。\n作为脱忍
- 被囚禁而死罪的原石隐最强忍者的“画眉丸”，听闻如
- 果从传说中的极乐净土带回长生不老的仙药，便可以无
- 罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执行人
- “山田浅卫门佐切”一起，前往仙药所在的小岛。\n画眉
- 丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 13
-DTSTART;VALUE=DATE:20230701
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-13-746322
-CLASS:PUBLIC
-DESCRIPTION:「梦境与现实」\n\n\n时值江户时代末期。\n作为
- 脱忍被囚禁而死罪的原石隐最强忍者的“画眉丸”，听
- 闻如果从传说中的极乐净土带回长生不老的仙药，便可
- 以无罪释放。\n画眉丸为了与最爱的妻子再会，与斩首执
- 行人“山田浅卫门佐切”一起，前往仙药所在的小岛。\n
- 画眉丸和佐切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 0
-DTSTART;VALUE=DATE:20230319
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n时值江户时代末期。\n作为脱忍被囚禁
- 而死罪的原石隐最强忍者的“画眉丸”，听闻如果从传
- 说中的极乐净土带回长生不老的仙药，便可以无罪释放
- 。\n画眉丸为了与最爱的妻子再会，与斩首执行人“山田
- 浅卫门佐切”一起，前往仙药所在的小岛。\n画眉丸和佐
- 切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 0
-DTSTART;VALUE=DATE:20230627
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n时值江户时代末期。\n作为脱忍被囚禁
- 而死罪的原石隐最强忍者的“画眉丸”，听闻如果从传
- 说中的极乐净土带回长生不老的仙药，便可以无罪释放
- 。\n画眉丸为了与最爱的妻子再会，与斩首执行人“山田
- 浅卫门佐切”一起，前往仙药所在的小岛。\n画眉丸和佐
- 切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地狱乐 0
-DTSTART;VALUE=DATE:20230701
-DTSTAMP;VALUE=DATE:20231009
-UID:325808-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n时值江户时代末期。\n作为脱忍被囚禁
- 而死罪的原石隐最强忍者的“画眉丸”，听闻如果从传
- 说中的极乐净土带回长生不老的仙药，便可以无罪释放
- 。\n画眉丸为了与最爱的妻子再会，与斩首执行人“山田
- 浅卫门佐切”一起，前往仙药所在的小岛。\n画眉丸和佐
- 切在
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 1
-DTSTART;VALUE=DATE:20230406
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「勇者死了！？」\n\n\n这是一个有剑与魔法、
- 人类与恶魔为敌的世界。有点好色的农夫少年托卡，用
- 自制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，
- 托卡将勇者的尸体埋了起来，但第二天早上，他的身体
- 却发生了变化！？从掉进陷阱开始，村民与美少女的有
- 些色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 2
-DTSTART;VALUE=DATE:20230413
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「冒牌勇者」\n\n\n这是一个有剑与魔法、人类
- 与恶魔为敌的世界。有点好色的农夫少年托卡，用自制
- 的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托卡
- 将勇者的尸体埋了起来，但第二天早上，他的身体却发
- 生了变化！？从掉进陷阱开始，村民与美少女的有些色
- 色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 3
-DTSTART;VALUE=DATE:20230420
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「勇者白骨化！」\n\n\n这是一个有剑与魔法、
- 人类与恶魔为敌的世界。有点好色的农夫少年托卡，用
- 自制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，
- 托卡将勇者的尸体埋了起来，但第二天早上，他的身体
- 却发生了变化！？从掉进陷阱开始，村民与美少女的有
- 些色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 4
-DTSTART;VALUE=DATE:20230427
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「新娘与勇者」\n\n\n这是一个有剑与魔法、人
- 类与恶魔为敌的世界。有点好色的农夫少年托卡，用自
- 制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托
- 卡将勇者的尸体埋了起来，但第二天早上，他的身体却
- 发生了变化！？从掉进陷阱开始，村民与美少女的有些
- 色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 5
-DTSTART;VALUE=DATE:20230504
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「复活的勇者」\n\n\n这是一个有剑与魔法、人
- 类与恶魔为敌的世界。有点好色的农夫少年托卡，用自
- 制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托
- 卡将勇者的尸体埋了起来，但第二天早上，他的身体却
- 发生了变化！？从掉进陷阱开始，村民与美少女的有些
- 色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 6
-DTSTART;VALUE=DATE:20230511
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「女体化勇者」\n\n\n这是一个有剑与魔法、人
- 类与恶魔为敌的世界。有点好色的农夫少年托卡，用自
- 制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托
- 卡将勇者的尸体埋了起来，但第二天早上，他的身体却
- 发生了变化！？从掉进陷阱开始，村民与美少女的有些
- 色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 7
-DTSTART;VALUE=DATE:20230518
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「新的勇者」\n\n\n这是一个有剑与魔法、人类
- 与恶魔为敌的世界。有点好色的农夫少年托卡，用自制
- 的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托卡
- 将勇者的尸体埋了起来，但第二天早上，他的身体却发
- 生了变化！？从掉进陷阱开始，村民与美少女的有些色
- 色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 8
-DTSTART;VALUE=DATE:20230525
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「勇者是徒弟！」\n\n\n这是一个有剑与魔法、
- 人类与恶魔为敌的世界。有点好色的农夫少年托卡，用
- 自制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，
- 托卡将勇者的尸体埋了起来，但第二天早上，他的身体
- 却发生了变化！？从掉进陷阱开始，村民与美少女的有
- 些色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 9
-DTSTART;VALUE=DATE:20230601
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「勇者回到过去」\n\n\n这是一个有剑与魔法、
- 人类与恶魔为敌的世界。有点好色的农夫少年托卡，用
- 自制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，
- 托卡将勇者的尸体埋了起来，但第二天早上，他的身体
- 却发生了变化！？从掉进陷阱开始，村民与美少女的有
- 些色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 10
-DTSTART;VALUE=DATE:20230608
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「潜入的勇者」\n\n\n这是一个有剑与魔法、人
- 类与恶魔为敌的世界。有点好色的农夫少年托卡，用自
- 制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托
- 卡将勇者的尸体埋了起来，但第二天早上，他的身体却
- 发生了变化！？从掉进陷阱开始，村民与美少女的有些
- 色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 11
-DTSTART;VALUE=DATE:20230615
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「勇者展开决斗！」\n\n\n这是一个有剑与魔法
- 、人类与恶魔为敌的世界。有点好色的农夫少年托卡，
- 用自制的陷阱，意外地杀死了勇者席恩。为了掩埋事实
- ，托卡将勇者的尸体埋了起来，但第二天早上，他的身
- 体却发生了变化！？从掉进陷阱开始，村民与美少女的
- 有些色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 12
-DTSTART;VALUE=DATE:20230622
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「两个勇者！」\n\n\n这是一个有剑与魔法、人
- 类与恶魔为敌的世界。有点好色的农夫少年托卡，用自
- 制的陷阱，意外地杀死了勇者席恩。为了掩埋事实，托
- 卡将勇者的尸体埋了起来，但第二天早上，他的身体却
- 发生了变化！？从掉进陷阱开始，村民与美少女的有些
- 色色的幻想冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:勇者死了！ 0
-DTSTART;VALUE=DATE:20230406
-DTSTAMP;VALUE=DATE:20231009
-UID:379639-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n这是一个有剑与魔法、人类与恶魔为
- 敌的世界。有点好色的农夫少年托卡，用自制的陷阱，
- 意外地杀死了勇者席恩。为了掩埋事实，托卡将勇者的
- 尸体埋了起来，但第二天早上，他的身体却发生了变化
- ！？从掉进陷阱开始，村民与美少女的有些色色的幻想
- 冒险开始了！\n
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 1
-DTSTART;VALUE=DATE:20230413
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「卡克的差事／王子和金钱」\n\n\n耳が聞こえ
- ず、話すことができない非力な王子・ボッジと、\nその
- 親友・カゲの冒険を描いたＴＶアニメ「王様ランキン
- グ」。\n\nそして本作「王様ランキング 勇気の宝箱」で
- は、\nボッジやカゲ、彼らの周りに集いし仲間たちの、
- \n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 2
-DTSTART;VALUE=DATE:20230420
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「荒野之野兽／不可思议的沙漠」\n\n\n耳が聞
- こえず、話すことができない非力な王子・ボッジと、\n
- その親友・カゲの冒険を描いたＴＶアニメ「王様ラン
- キング」。\n\nそして本作「王様ランキング 勇気の宝箱
- 」では、\nボッジやカゲ、彼らの周りに集いし仲間たち
- の、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 3
-DTSTART;VALUE=DATE:20230427
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「希琳的老朋友／戴达与魔法」\n\n\n耳が聞こ
- えず、話すことができない非力な王子・ボッジと、\nそ
- の親友・カゲの冒険を描いたＴＶアニメ「王様ランキ
- ング」。\n\nそして本作「王様ランキング 勇気の宝箱」
- では、\nボッジやカゲ、彼らの周りに集いし仲間たちの
- 、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 4
-DTSTART;VALUE=DATE:20230504
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「不死之身和三兄弟」\n\n\n耳が聞こえず、話
- すことができない非力な王子・ボッジと、\nその親友・
- カゲの冒険を描いたＴＶアニメ「王様ランキング」。\n
- \nそして本作「王様ランキング 勇気の宝箱」では、\nボ
- ッジやカゲ、彼らの周りに集いし仲間たちの、\n知られ
- ざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 5
-DTSTART;VALUE=DATE:20230511
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「冥府的规定／坠入爱河的白马／善良的士兵
- 霍库洛」\n\n\n耳が聞こえず、話すことができない非力
- な王子・ボッジと、\nその親友・カゲの冒険を描いたＴ
- Ｖアニメ「王様ランキング」。\n\nそして本作「王様ラ
- ンキング 勇気の宝箱」では、\nボッジやカゲ、彼らの
- 周りに集いし仲間たちの、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 6
-DTSTART;VALUE=DATE:20230518
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「成为国王的波吉／戴达国王的烦恼」\n\n\n耳
- が聞こえず、話すことができない非力な王子・ボッジ
- と、\nその親友・カゲの冒険を描いたＴＶアニメ「王様
- ランキング」。\n\nそして本作「王様ランキング 勇気の
- 宝箱」では、\nボッジやカゲ、彼らの周りに集いし仲間
- たちの、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 7
-DTSTART;VALUE=DATE:20230525
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「冷笑的驭蛇人／四天王的宴会」\n\n\n耳が聞
- こえず、話すことができない非力な王子・ボッジと、\n
- その親友・カゲの冒険を描いたＴＶアニメ「王様ラン
- キング」。\n\nそして本作「王様ランキング 勇気の宝箱
- 」では、\nボッジやカゲ、彼らの周りに集いし仲間たち
- の、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 8
-DTSTART;VALUE=DATE:20230601
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「卡克的梦想／伟大的母亲」\n\n\n耳が聞こえ
- ず、話すことができない非力な王子・ボッジと、\nその
- 親友・カゲの冒険を描いたＴＶアニメ「王様ランキン
- グ」。\n\nそして本作「王様ランキング 勇気の宝箱」で
- は、\nボッジやカゲ、彼らの周りに集いし仲間たちの、
- \n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 9
-DTSTART;VALUE=DATE:20230608
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「米兰乔与魔神／王子与宝物」\n\n\n耳が聞こ
- えず、話すことができない非力な王子・ボッジと、\nそ
- の親友・カゲの冒険を描いたＴＶアニメ「王様ランキ
- ング」。\n\nそして本作「王様ランキング 勇気の宝箱」
- では、\nボッジやカゲ、彼らの周りに集いし仲間たちの
- 、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 10
-DTSTART;VALUE=DATE:20230615
-DTSTAMP;VALUE=DATE:20231009
-UID:394997-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「剑王的复活」\n\n\n耳が聞こえず、話すこと
- ができない非力な王子・ボッジと、\nその親友・カゲの
- 冒険を描いたＴＶアニメ「王様ランキング」。\n\nそし
- て本作「王様ランキング 勇気の宝箱」では、\nボッジ
- やカゲ、彼らの周りに集いし仲間たちの、\n知られざる
- 〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 1
-DTSTART;VALUE=DATE:20230405
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「红眼的魔法师们」\n\n\n红魔之乡——那里是
- 天生拥有高魔力和智力，作为魔法使的高适应性，以及
- 红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训，
- 那就是“只有学会高级魔法才能独当一面。爆裂魔法是
- 梗魔法。”\n但是，就在“魔法学园Red Prison”的同学们
- 期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 2
-DTSTART;VALUE=DATE:20230412
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「魔法学校的禁忌」\n\n\n红魔之乡——那里是
- 天生拥有高魔力和智力，作为魔法使的高适应性，以及
- 红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训，
- 那就是“只有学会高级魔法才能独当一面。爆裂魔法是
- 梗魔法。”\n但是，就在“魔法学园Red Prison”的同学们
- 期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 3
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「红魔之里的守护者们」\n\n\n红魔之乡——那
- 里是天生拥有高魔力和智力，作为魔法使的高适应性，
- 以及红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡
- 训，那就是“只有学会高级魔法才能独当一面。爆裂魔
- 法是梗魔法。”\n但是，就在“魔法学园Red Prison”的同
- 学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 4
-DTSTART;VALUE=DATE:20230426
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「红眼的孤傲少女」\n\n\n红魔之乡——那里是
- 天生拥有高魔力和智力，作为魔法使的高适应性，以及
- 红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训，
- 那就是“只有学会高级魔法才能独当一面。爆裂魔法是
- 梗魔法。”\n但是，就在“魔法学园Red Prison”的同学们
- 期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 5
-DTSTART;VALUE=DATE:20230503
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「爆裂狂的诞生」\n\n\n红魔之乡——那里是天
- 生拥有高魔力和智力，作为魔法使的高适应性，以及红
- 眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训，那
- 就是“只有学会高级魔法才能独当一面。爆裂魔法是梗
- 魔法。”\n但是，就在“魔法学园Red Prison”的同学们期
- 待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 6
-DTSTART;VALUE=DATE:20230510
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「爆裂啃老族的求职活动」\n\n\n红魔之乡——
- 那里是天生拥有高魔力和智力，作为魔法使的高适应性
- ，以及红眼睛的红魔族居住的土地。\n这个红魔之乡有个
- 乡训，那就是“只有学会高级魔法才能独当一面。爆裂
- 魔法是梗魔法。”\n但是，就在“魔法学园Red Prison”的
- 同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 7
-DTSTART;VALUE=DATE:20230517
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「水都的麻烦教团」\n\n\n红魔之乡——那里是
- 天生拥有高魔力和智力，作为魔法使的高适应性，以及
- 红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训，
- 那就是“只有学会高级魔法才能独当一面。爆裂魔法是
- 梗魔法。”\n但是，就在“魔法学园Red Prison”的同学们
- 期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 8
-DTSTART;VALUE=DATE:20230524
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「水都的狂热信徒们」\n\n\n红魔之乡——那里
- 是天生拥有高魔力和智力，作为魔法使的高适应性，以
- 及红眼睛的红魔族居住的土地。\n这个红魔之乡有个乡训
- ，那就是“只有学会高级魔法才能独当一面。爆裂魔法
- 是梗魔法。”\n但是，就在“魔法学园Red Prison”的同学
- 们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 9
-DTSTART;VALUE=DATE:20230531
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「来自红魔之乡的造访者（Destroyer）」\n\n\n红
- 魔之乡——那里是天生拥有高魔力和智力，作为魔法使
- 的高适应性，以及红眼睛的红魔族居住的土地。\n这个红
- 魔之乡有个乡训，那就是“只有学会高级魔法才能独当
- 一面。爆裂魔法是梗魔法。”\n但是，就在“魔法学园Red
-  Prison”的同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 10
-DTSTART;VALUE=DATE:20230607
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「新手之城的冒险者（out law）们」\n\n\n红魔之
- 乡——那里是天生拥有高魔力和智力，作为魔法使的高
- 适应性，以及红眼睛的红魔族居住的土地。\n这个红魔之
- 乡有个乡训，那就是“只有学会高级魔法才能独当一面
- 。爆裂魔法是梗魔法。”\n但是，就在“魔法学园Red Priso
- n”的同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 11
-DTSTART;VALUE=DATE:20230614
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「知名爆裂女和森林恶魔」\n\n\n红魔之乡——
- 那里是天生拥有高魔力和智力，作为魔法使的高适应性
- ，以及红眼睛的红魔族居住的土地。\n这个红魔之乡有个
- 乡训，那就是“只有学会高级魔法才能独当一面。爆裂
- 魔法是梗魔法。”\n但是，就在“魔法学园Red Prison”的
- 同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 12
-DTSTART;VALUE=DATE:20230621
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「为美好的世界献上爆焰！」\n\n\n红魔之乡—
- —那里是天生拥有高魔力和智力，作为魔法使的高适应
- 性，以及红眼睛的红魔族居住的土地。\n这个红魔之乡有
- 个乡训，那就是“只有学会高级魔法才能独当一面。爆
- 裂魔法是梗魔法。”\n但是，就在“魔法学园Red Prison”
- 的同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:为美好的世界献上爆焰！ 0
-DTSTART;VALUE=DATE:20230328
-DTSTAMP;VALUE=DATE:20231009
-UID:385209-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n红魔之乡——那里是天生拥有高魔力
- 和智力，作为魔法使的高适应性，以及红眼睛的红魔族
- 居住的土地。\n这个红魔之乡有个乡训，那就是“只有学
- 会高级魔法才能独当一面。爆裂魔法是梗魔法。”\n但是
- ，就在“魔法学园Red Prison”的同学们期待着学习
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 1
-DTSTART;VALUE=DATE:20230409
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「某人的梦」\n\n\n故事来到了新的地方——炭
- 治郎的目的地是「刀匠村」。与鬼杀队的最强剑士，霞
- 柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼
- 近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 2
-DTSTART;VALUE=DATE:20230416
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「缘一零式」\n\n\n故事来到了新的地方——炭
- 治郎的目的地是「刀匠村」。与鬼杀队的最强剑士，霞
- 柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼
- 近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 3
-DTSTART;VALUE=DATE:20230423
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「超过300年以前的刀」\n\n\n故事来到了新的地
- 方——炭治郎的目的地是「刀匠村」。与鬼杀队的最强
- 剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼
- 也悄然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 4
-DTSTART;VALUE=DATE:20230430
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「时透君 谢谢你」\n\n\n故事来到了新的地方—
- —炭治郎的目的地是「刀匠村」。与鬼杀队的最强剑士
- ，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄
- 然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 5
-DTSTART;VALUE=DATE:20230507
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「赫刀」\n\n\n故事来到了新的地方——炭治郎
- 的目的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时
- 透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。炭
- 治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 6
-DTSTART;VALUE=DATE:20230514
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「你不是要成为柱吗！」\n\n\n故事来到了新的
- 地方——炭治郎的目的地是「刀匠村」。与鬼杀队的最
- 强剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而
- 鬼也悄然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 7
-DTSTART;VALUE=DATE:20230521
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「极恶之徒」\n\n\n故事来到了新的地方——炭
- 治郎的目的地是「刀匠村」。与鬼杀队的最强剑士，霞
- 柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼
- 近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 8
-DTSTART;VALUE=DATE:20230528
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「无一郎的无」\n\n\n故事来到了新的地方——
- 炭治郎的目的地是「刀匠村」。与鬼杀队的最强剑士，
- 霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然
- 逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 9
-DTSTART;VALUE=DATE:20230604
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「霞柱・时透无一郎」\n\n\n故事来到了新的地
- 方——炭治郎的目的地是「刀匠村」。与鬼杀队的最强
- 剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼
- 也悄然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 10
-DTSTART;VALUE=DATE:20230611
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「恋柱・甘露寺蜜璃」\n\n\n故事来到了新的地
- 方——炭治郎的目的地是「刀匠村」。与鬼杀队的最强
- 剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼
- 也悄然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 11
-DTSTART;VALUE=DATE:20230618
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「联系的羁绊 黎明 拂晓」\n\n\n故事来到了新的
- 地方——炭治郎的目的地是「刀匠村」。与鬼杀队的最
- 强剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而
- 鬼也悄然逼近。炭治郎一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 0
-DTSTART;VALUE=DATE:20230301
-DTSTAMP;VALUE=DATE:20231009
-UID:369768-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n故事来到了新的地方——炭治郎的目
- 的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时透无
- 一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。炭治郎
- 一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 1
-DTSTART;VALUE=DATE:20230406
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n自全人类被神秘现象瞬间石化之后，
- 已过去了几千年——\n千空，一个有着超越常人的头脑，
- 彻头彻尾的科学少年醒来了。\n面对着文明已经灭绝的石
- 之世界，千空决心以科学的力量重建地球，他找来了同
- 伴，建立起了“科学王国”。\n但是，他们碰上了由灵长
- 类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 2
-DTSTART;VALUE=DATE:20230413
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「欲望即正义」\n\n\n自全人类被神秘现象瞬间
- 石化之后，已过去了几千年——\n千空，一个有着超越常
- 人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已
- 经灭绝的石之世界，千空决心以科学的力量重建地球，
- 他找来了同伴，建立起了“科学王国”。\n但是，他们碰
- 上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 3
-DTSTART;VALUE=DATE:20230420
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「第一次接触」\n\n\n自全人类被神秘现象瞬间
- 石化之后，已过去了几千年——\n千空，一个有着超越常
- 人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已
- 经灭绝的石之世界，千空决心以科学的力量重建地球，
- 他找来了同伴，建立起了“科学王国”。\n但是，他们碰
- 上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 4
-DTSTART;VALUE=DATE:20230427
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「科学之眼」\n\n\n自全人类被神秘现象瞬间石
- 化之后，已过去了几千年——\n千空，一个有着超越常人
- 的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已经
- 灭绝的石之世界，千空决心以科学的力量重建地球，他
- 找来了同伴，建立起了“科学王国”。\n但是，他们碰上
- 了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 5
-DTSTART;VALUE=DATE:20230504
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「科学船帕尔修斯」\n\n\n自全人类被神秘现象
- 瞬间石化之后，已过去了几千年——\n千空，一个有着超
- 越常人的头脑，彻头彻尾的科学少年醒来了。\n面对着文
- 明已经灭绝的石之世界，千空决心以科学的力量重建地
- 球，他找来了同伴，建立起了“科学王国”。\n但是，他
- 们碰上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 6
-DTSTART;VALUE=DATE:20230511
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「宝箱」\n\n\n自全人类被神秘现象瞬间石化之
- 后，已过去了几千年——\n千空，一个有着超越常人的头
- 脑，彻头彻尾的科学少年醒来了。\n面对着文明已经灭绝
- 的石之世界，千空决心以科学的力量重建地球，他找来
- 了同伴，建立起了“科学王国”。\n但是，他们碰上了由
- 灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 7
-DTSTART;VALUE=DATE:20230518
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「绝望与希望的光」\n\n\n自全人类被神秘现象
- 瞬间石化之后，已过去了几千年——\n千空，一个有着超
- 越常人的头脑，彻头彻尾的科学少年醒来了。\n面对着文
- 明已经灭绝的石之世界，千空决心以科学的力量重建地
- 球，他找来了同伴，建立起了“科学王国”。\n但是，他
- 们碰上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 8
-DTSTART;VALUE=DATE:20230525
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「王牌在科学之船上」\n\n\n自全人类被神秘现
- 象瞬间石化之后，已过去了几千年——\n千空，一个有着
- 超越常人的头脑，彻头彻尾的科学少年醒来了。\n面对着
- 文明已经灭绝的石之世界，千空决心以科学的力量重建
- 地球，他找来了同伴，建立起了“科学王国”。\n但是，
- 他们碰上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 9
-DTSTART;VALUE=DATE:20230601
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「美丽的科学」\n\n\n自全人类被神秘现象瞬间
- 石化之后，已过去了几千年——\n千空，一个有着超越常
- 人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已
- 经灭绝的石之世界，千空决心以科学的力量重建地球，
- 他找来了同伴，建立起了“科学王国”。\n但是，他们碰
- 上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 10
-DTSTART;VALUE=DATE:20230608
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「科学战争」\n\n\n自全人类被神秘现象瞬间石
- 化之后，已过去了几千年——\n千空，一个有着超越常人
- 的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已经
- 灭绝的石之世界，千空决心以科学的力量重建地球，他
- 找来了同伴，建立起了“科学王国”。\n但是，他们碰上
- 了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 11
-DTSTART;VALUE=DATE:20230615
-DTSTAMP;VALUE=DATE:20231009
-UID:363101-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「亲手抓住奇迹」\n\n\n自全人类被神秘现象瞬
- 间石化之后，已过去了几千年——\n千空，一个有着超越
- 常人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明
- 已经灭绝的石之世界，千空决心以科学的力量重建地球
- ，他找来了同伴，建立起了“科学王国”。\n但是，他们
- 碰上了由灵长类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 1
-DTSTART;VALUE=DATE:20230109
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「祭里与铃与妖怪」\n\n\n风卷祭里是一名退魔
- 忍，在斩妖除魔时却被妖王「白金」变成了女生！变成
- 女生之后，他跟自己的青梅竹马花奏铃之间的关系，也
- 开始产生了微妙的变化。另一方面，由于花奏铃身上有
- 着特殊的妖力，导致许多妖怪都想要接近她。祭里不仅
- 要以女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 2
-DTSTART;VALUE=DATE:20230116
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「女性朋友」\n\n\n风卷祭里是一名退魔忍，在
- 斩妖除魔时却被妖王「白金」变成了女生！变成女生之
- 后，他跟自己的青梅竹马花奏铃之间的关系，也开始产
- 生了微妙的变化。另一方面，由于花奏铃身上有着特殊
- 的妖力，导致许多妖怪都想要接近她。祭里不仅要以女
- 生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 3
-DTSTART;VALUE=DATE:20230123
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「神速之祓忍」\n\n\n风卷祭里是一名退魔忍，
- 在斩妖除魔时却被妖王「白金」变成了女生！变成女生
- 之后，他跟自己的青梅竹马花奏铃之间的关系，也开始
- 产生了微妙的变化。另一方面，由于花奏铃身上有着特
- 殊的妖力，导致许多妖怪都想要接近她。祭里不仅要以
- 女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 4
-DTSTART;VALUE=DATE:20230130
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「妖巫女的忧郁」\n\n\n风卷祭里是一名退魔忍
- ，在斩妖除魔时却被妖王「白金」变成了女生！变成女
- 生之后，他跟自己的青梅竹马花奏铃之间的关系，也开
- 始产生了微妙的变化。另一方面，由于花奏铃身上有着
- 特殊的妖力，导致许多妖怪都想要接近她。祭里不仅要
- 以女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 5
-DTSTART;VALUE=DATE:20230306
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「面影」\n\n\n风卷祭里是一名退魔忍，在斩妖
- 除魔时却被妖王「白金」变成了女生！变成女生之后，
- 他跟自己的青梅竹马花奏铃之间的关系，也开始产生了
- 微妙的变化。另一方面，由于花奏铃身上有着特殊的妖
- 力，导致许多妖怪都想要接近她。祭里不仅要以女生的
- 身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 6
-DTSTART;VALUE=DATE:20230313
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「看得见，看不见」\n\n\n风卷祭里是一名退魔
- 忍，在斩妖除魔时却被妖王「白金」变成了女生！变成
- 女生之后，他跟自己的青梅竹马花奏铃之间的关系，也
- 开始产生了微妙的变化。另一方面，由于花奏铃身上有
- 着特殊的妖力，导致许多妖怪都想要接近她。祭里不仅
- 要以女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 7
-DTSTART;VALUE=DATE:20230821
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「歌川画乐」\n\n\n风卷祭里是一名退魔忍，在
- 斩妖除魔时却被妖王「白金」变成了女生！变成女生之
- 后，他跟自己的青梅竹马花奏铃之间的关系，也开始产
- 生了微妙的变化。另一方面，由于花奏铃身上有着特殊
- 的妖力，导致许多妖怪都想要接近她。祭里不仅要以女
- 生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 8
-DTSTART;VALUE=DATE:20230828
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「夺走第一次的人」\n\n\n风卷祭里是一名退魔
- 忍，在斩妖除魔时却被妖王「白金」变成了女生！变成
- 女生之后，他跟自己的青梅竹马花奏铃之间的关系，也
- 开始产生了微妙的变化。另一方面，由于花奏铃身上有
- 着特殊的妖力，导致许多妖怪都想要接近她。祭里不仅
- 要以女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 9
-DTSTART;VALUE=DATE:20230904
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「与“他”的相遇」\n\n\n风卷祭里是一名退魔
- 忍，在斩妖除魔时却被妖王「白金」变成了女生！变成
- 女生之后，他跟自己的青梅竹马花奏铃之间的关系，也
- 开始产生了微妙的变化。另一方面，由于花奏铃身上有
- 着特殊的妖力，导致许多妖怪都想要接近她。祭里不仅
- 要以女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 10
-DTSTART;VALUE=DATE:20230911
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「诱惑的少年」\n\n\n风卷祭里是一名退魔忍，
- 在斩妖除魔时却被妖王「白金」变成了女生！变成女生
- 之后，他跟自己的青梅竹马花奏铃之间的关系，也开始
- 产生了微妙的变化。另一方面，由于花奏铃身上有着特
- 殊的妖力，导致许多妖怪都想要接近她。祭里不仅要以
- 女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 11
-DTSTART;VALUE=DATE:20230918
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n风卷祭里是一名退魔忍，在斩妖除魔
- 时却被妖王「白金」变成了女生！变成女生之后，他跟
- 自己的青梅竹马花奏铃之间的关系，也开始产生了微妙
- 的变化。另一方面，由于花奏铃身上有着特殊的妖力，
- 导致许多妖怪都想要接近她。祭里不仅要以女生的身份
- 重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 12
-DTSTART;VALUE=DATE:20230925
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「妖王 花奏铃」\n\n\n风卷祭里是一名退魔忍，
- 在斩妖除魔时却被妖王「白金」变成了女生！变成女生
- 之后，他跟自己的青梅竹马花奏铃之间的关系，也开始
- 产生了微妙的变化。另一方面，由于花奏铃身上有着特
- 殊的妖力，导致许多妖怪都想要接近她。祭里不仅要以
- 女生的身份重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妖幻三重奏 0
-DTSTART;VALUE=DATE:20221122
-DTSTAMP;VALUE=DATE:20231009
-UID:363026-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n风卷祭里是一名退魔忍，在斩妖除魔
- 时却被妖王「白金」变成了女生！变成女生之后，他跟
- 自己的青梅竹马花奏铃之间的关系，也开始产生了微妙
- 的变化。另一方面，由于花奏铃身上有着特殊的妖力，
- 导致许多妖怪都想要接近她。祭里不仅要以女生的身份
- 重新习惯学校与日
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 1
-DTSTART;VALUE=DATE:20230108
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「万事屋斋藤先生」\n\n\n一直都过得很平凡，
- 不管是运动还是读书都差强人意，绝对无法成为第一名
- 的普通人——斋藤，被召唤到了异世界。即使在异世界
- ，斋藤也绝非是特别的，一点都不强。但在与超有个性
- 的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔
- 法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 2
-DTSTART;VALUE=DATE:20230115
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「斋藤先生能做些什么」\n\n\n一直都过得很平
- 凡，不管是运动还是读书都差强人意，绝对无法成为第
- 一名的普通人——斋藤，被召唤到了异世界。即使在异
- 世界，斋藤也绝非是特别的，一点都不强。但在与超有
- 个性的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘
- 的魔法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 3
-DTSTART;VALUE=DATE:20230122
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「大迷宫的冒险者们」\n\n\n一直都过得很平凡
- ，不管是运动还是读书都差强人意，绝对无法成为第一
- 名的普通人——斋藤，被召唤到了异世界。即使在异世
- 界，斋藤也绝非是特别的，一点都不强。但在与超有个
- 性的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的
- 魔法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 4
-DTSTART;VALUE=DATE:20230129
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「新时代正式开幕」\n\n\n一直都过得很平凡，
- 不管是运动还是读书都差强人意，绝对无法成为第一名
- 的普通人——斋藤，被召唤到了异世界。即使在异世界
- ，斋藤也绝非是特别的，一点都不强。但在与超有个性
- 的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔
- 法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 5
-DTSTART;VALUE=DATE:20230205
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「忍者与魔女」\n\n\n一直都过得很平凡，不管
- 是运动还是读书都差强人意，绝对无法成为第一名的普
- 通人——斋藤，被召唤到了异世界。即使在异世界，斋
- 藤也绝非是特别的，一点都不强。但在与超有个性的伙
- 伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔法师
- 咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 6
-DTSTART;VALUE=DATE:20230212
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「老魔术师的记忆」\n\n\n一直都过得很平凡，
- 不管是运动还是读书都差强人意，绝对无法成为第一名
- 的普通人——斋藤，被召唤到了异世界。即使在异世界
- ，斋藤也绝非是特别的，一点都不强。但在与超有个性
- 的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔
- 法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 7
-DTSTART;VALUE=DATE:20230219
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「极限接触」\n\n\n一直都过得很平凡，不管是
- 运动还是读书都差强人意，绝对无法成为第一名的普通
- 人——斋藤，被召唤到了异世界。即使在异世界，斋藤
- 也绝非是特别的，一点都不强。但在与超有个性的伙伴
- 一起挑战攻略迷宫的过程中，告诉严重健忘的魔法师咒
- 语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 8
-DTSTART;VALUE=DATE:20230226
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「战斗收获了什么」\n\n\n一直都过得很平凡，
- 不管是运动还是读书都差强人意，绝对无法成为第一名
- 的普通人——斋藤，被召唤到了异世界。即使在异世界
- ，斋藤也绝非是特别的，一点都不强。但在与超有个性
- 的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔
- 法师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 9
-DTSTART;VALUE=DATE:20230305
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「悲哀的犬战士」\n\n\n一直都过得很平凡，不
- 管是运动还是读书都差强人意，绝对无法成为第一名的
- 普通人——斋藤，被召唤到了异世界。即使在异世界，
- 斋藤也绝非是特别的，一点都不强。但在与超有个性的
- 伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔法
- 师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 10
-DTSTART;VALUE=DATE:20230312
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「魔界的追踪者」\n\n\n一直都过得很平凡，不
- 管是运动还是读书都差强人意，绝对无法成为第一名的
- 普通人——斋藤，被召唤到了异世界。即使在异世界，
- 斋藤也绝非是特别的，一点都不强。但在与超有个性的
- 伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔法
- 师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 11
-DTSTART;VALUE=DATE:20230319
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「最终决战」\n\n\n一直都过得很平凡，不管是
- 运动还是读书都差强人意，绝对无法成为第一名的普通
- 人——斋藤，被召唤到了异世界。即使在异世界，斋藤
- 也绝非是特别的，一点都不强。但在与超有个性的伙伴
- 一起挑战攻略迷宫的过程中，告诉严重健忘的魔法师咒
- 语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 12
-DTSTART;VALUE=DATE:20230326
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「最被需要的人」\n\n\n一直都过得很平凡，不
- 管是运动还是读书都差强人意，绝对无法成为第一名的
- 普通人——斋藤，被召唤到了异世界。即使在异世界，
- 斋藤也绝非是特别的，一点都不强。但在与超有个性的
- 伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔法
- 师咒语、用身体当盾来保护小妖
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:万事屋斋藤、到异世界 0
-DTSTART;VALUE=DATE:20221217
-DTSTAMP;VALUE=DATE:20231009
-UID:366165-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n一直都过得很平凡，不管是运动还是
- 读书都差强人意，绝对无法成为第一名的普通人——斋
- 藤，被召唤到了异世界。即使在异世界，斋藤也绝非是
- 特别的，一点都不强。但在与超有个性的伙伴一起挑战
- 攻略迷宫的过程中，告诉严重健忘的魔法师咒语、用身
- 体当盾来保护小妖
+DESCRIPTION:「」\n\n\n司帝国との戦いが終わり、コールド
+ スリープした司を救うべく動き出した千空たち。\n石化
+ 現象の謎を突き止める為、ついに科学王国は地球の裏
+ 側・新世界を目指す！\n\n航海に向けて船造りを始めた
+ 千空たちは、航海力100億の神腕船長を仲間にしようと
+ 、
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 1
 DTSTART;VALUE=DATE:20220706
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-1-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-1-684688
 CLASS:PUBLIC
 DESCRIPTION:「在异世界格朗巴哈马尔过了17年总算回来，咯
  」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞上，从此陷
@@ -2945,8 +442,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 2
 DTSTART;VALUE=DATE:20220713
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-2-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-2-684688
 CLASS:PUBLIC
 DESCRIPTION:「第一名应该是《守护英雄》才对吧啊啊啊！
  」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞上，从此陷
@@ -2960,8 +457,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 3
 DTSTART;VALUE=DATE:20220720
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-3-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-3-684688
 CLASS:PUBLIC
 DESCRIPTION:「既然有舅舅那当然也有舅妈，啦」\n\n\n2017年
  秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直到
@@ -2975,8 +472,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 4
 DTSTART;VALUE=DATE:20220727
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-4-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-4-684688
 CLASS:PUBLIC
 DESCRIPTION:「我难受的时候，多亏有你支撑着我」\n\n\n2017
  年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直
@@ -2990,8 +487,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 5
 DTSTART;VALUE=DATE:20220817
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-5-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-5-684688
 CLASS:PUBLIC
 DESCRIPTION:「说起来，我有一次差点被「暗杀」」\n\n\n2017
  年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直
@@ -3005,8 +502,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 6
 DTSTART;VALUE=DATE:20220824
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-6-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-6-684688
 CLASS:PUBLIC
 DESCRIPTION:「就这样，我被杂耍班子老板关在了地下…」\n
  \n\n2017年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏
@@ -3020,8 +517,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 7
 DTSTART;VALUE=DATE:20220831
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-7-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-7-684688
 CLASS:PUBLIC
 DESCRIPTION:「如你所见SEGA的游戏对人生是有用的！」\n\n\n2
  017年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，
@@ -3035,8 +532,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 8
 DTSTART;VALUE=DATE:20221124
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-8-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-8-684688
 CLASS:PUBLIC
 DESCRIPTION:「变成我知道的最强生物来打开局面」\n\n\n2017
  年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直
@@ -3050,8 +547,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 9
 DTSTART;VALUE=DATE:20221201
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-9-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-9-684688
 CLASS:PUBLIC
 DESCRIPTION:「冰之精灵正在索要使用空调魔法的代价啊」\n
  \n\n2017年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏
@@ -3065,8 +562,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 10
 DTSTART;VALUE=DATE:20221208
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-10-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-10-684688
 CLASS:PUBLIC
 DESCRIPTION:「礼节...是要先被认可是人类才有的」\n\n\n2017
  年秋，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直
@@ -3080,8 +577,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 11
 DTSTART;VALUE=DATE:20221215
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-11-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-11-684688
 CLASS:PUBLIC
 DESCRIPTION:「不 不是的 不是因为看到H的东西才流鼻血的..
  .」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞上，从此陷
@@ -3095,8 +592,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 12
 DTSTART;VALUE=DATE:20221222
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-12-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-12-684688
 CLASS:PUBLIC
 DESCRIPTION:「名字是很重要的，她这样说道」\n\n\n2017年秋
  ，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直到17
@@ -3110,8 +607,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 13
 DTSTART;VALUE=DATE:20230308
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-13-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-13-684688
 CLASS:PUBLIC
 DESCRIPTION:「感谢大家的一路陪伴」\n\n\n2017年秋，敬文的
  舅舅17岁时被卡车撞上，从此陷入昏迷，直到17年后他奇
@@ -3125,8 +622,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 0
 DTSTART;VALUE=DATE:20220625
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-0-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-0-684688
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞
  上，从此陷入昏迷，直到17年后他奇迹般苏醒。\n敬文去
@@ -3139,8 +636,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界舅舅 0
 DTSTART;VALUE=DATE:20220629
-DTSTAMP;VALUE=DATE:20231009
-UID:339326-0-746322
+DTSTAMP;VALUE=DATE:20231010
+UID:339326-0-684688
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞
  上，从此陷入昏迷，直到17年后他奇迹般苏醒。\n敬文去
@@ -3151,1902 +648,629 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 1
-DTSTART;VALUE=DATE:20221005
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-1-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 1
+DTSTART;VALUE=DATE:20220408
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「讨厌的同学」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「伊井野想要被治愈 / 辉夜大小姐没有察觉到 /
+  藤原千花想要战斗」\n\n\n秀知院学园是秀才云集的菁英
+ 学校，在学生会中担任学生会副会长·四宫辉夜遇见了学
+ 生会长·白银御行。\n原以为这两个任谁都觉得很登对的
+ 天才应该很快就会在一起，但这两人却因为过高的自尊
+ 心导致他们终没能向对方告白。\n“该用什么办法才能让
+ 对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 2
-DTSTART;VALUE=DATE:20221012
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-2-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 2
+DTSTART;VALUE=DATE:20220415
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-2-684688
 CLASS:PUBLIC
-DESCRIPTION:「组建暗影花园」\n\n\n主人公最强×压倒的中二
- 病×因误会造成的严肃喜剧！？\n“影之实力者”\n既不
- 是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己
- 的实力、在暗中介入事件并施展自身实力的存在。\n憧憬
- 着“影之实力者”、每天过着不起眼的生活、为了追求
- 力量而修行
+DESCRIPTION:「白银御行想要撮合 / 辉夜大小姐想带出去 / 
+ 辉夜大小姐想要阻止」\n\n\n秀知院学园是秀才云集的菁
+ 英学校，在学生会中担任学生会副会长·四宫辉夜遇见了
+ 学生会长·白银御行。\n原以为这两个任谁都觉得很登对
+ 的天才应该很快就会在一起，但这两人却因为过高的自
+ 尊心导致他们终没能向对方告白。\n“该用什么办法才能
+ 让对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 3
-DTSTART;VALUE=DATE:20221019
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-3-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 3
+DTSTART;VALUE=DATE:20220422
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-3-684688
 CLASS:PUBLIC
-DESCRIPTION:「凡人之剑」\n\n\n主人公最强×压倒的中二病×
- 因误会造成的严肃喜剧！？\n“影之实力者”\n既不是主
- 人公，也不是终极大BOSS，而是平日里彻底隐藏自己的实
- 力、在暗中介入事件并施展自身实力的存在。\n憧憬着“
- 影之实力者”、每天过着不起眼的生活、为了追求力量
- 而修行
+DESCRIPTION:「柏木渚想诛杀 / 四条真妃想做点什么 / 白银
+ 御行想要被信任」\n\n\n秀知院学园是秀才云集的菁英学
+ 校，在学生会中担任学生会副会长·四宫辉夜遇见了学生
+ 会长·白银御行。\n原以为这两个任谁都觉得很登对的天
+ 才应该很快就会在一起，但这两人却因为过高的自尊心
+ 导致他们终没能向对方告白。\n“该用什么办法才能让对
+ 方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 4
-DTSTART;VALUE=DATE:20221026
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-4-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 4
+DTSTART;VALUE=DATE:20220429
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-4-684688
 CLASS:PUBLIC
-DESCRIPTION:「施虐的报酬」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「四宫辉夜的无理难题 燕的子安贝篇1 / 石上优
+ 想要回应 / 藤原千花想住下」\n\n\n秀知院学园是秀才云
+ 集的菁英学校，在学生会中担任学生会副会长·四宫辉夜
+ 遇见了学生会长·白银御行。\n原以为这两个任谁都觉得
+ 很登对的天才应该很快就会在一起，但这两人却因为过
+ 高的自尊心导致他们终没能向对方告白。\n“该用什么办
+ 法才能让对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 5
-DTSTART;VALUE=DATE:20221102
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-5-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 5
+DTSTART;VALUE=DATE:20220506
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-5-684688
 CLASS:PUBLIC
-DESCRIPTION:「吾·为……」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「藤原千花想要铭记于心 / 早坂爱想说话 / 四
+ 条真妃想依赖」\n\n\n秀知院学园是秀才云集的菁英学校
+ ，在学生会中担任学生会副会长·四宫辉夜遇见了学生会
+ 长·白银御行。\n原以为这两个任谁都觉得很登对的天才
+ 应该很快就会在一起，但这两人却因为过高的自尊心导
+ 致他们终没能向对方告白。\n“该用什么办法才能让对方
+ 向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 6
-DTSTART;VALUE=DATE:20221109
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-6-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 6
+DTSTART;VALUE=DATE:20220513
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-6-684688
 CLASS:PUBLIC
-DESCRIPTION:「假冒者」\n\n\n主人公最强×压倒的中二病×因
- 误会造成的严肃喜剧！？\n“影之实力者”\n既不是主人
- 公，也不是终极大BOSS，而是平日里彻底隐藏自己的实力
- 、在暗中介入事件并施展自身实力的存在。\n憧憬着“影
- 之实力者”、每天过着不起眼的生活、为了追求力量而
- 修行
+DESCRIPTION:「学生会想前进 / 白银御行想让人告白② / 白
+ 银御行想让人告白③」\n\n\n秀知院学园是秀才云集的菁
+ 英学校，在学生会中担任学生会副会长·四宫辉夜遇见了
+ 学生会长·白银御行。\n原以为这两个任谁都觉得很登对
+ 的天才应该很快就会在一起，但这两人却因为过高的自
+ 尊心导致他们终没能向对方告白。\n“该用什么办法才能
+ 让对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 7
-DTSTART;VALUE=DATE:20221116
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-7-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 7
+DTSTART;VALUE=DATE:20220520
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-7-684688
 CLASS:PUBLIC
-DESCRIPTION:「算计与流血的剑术大赛」\n\n\n主人公最强×压
- 倒的中二病×因误会造成的严肃喜剧！？\n“影之实力者
- ”\n既不是主人公，也不是终极大BOSS，而是平日里彻底
- 隐藏自己的实力、在暗中介入事件并施展自身实力的存
- 在。\n憧憬着“影之实力者”、每天过着不起眼的生活、
- 为了追求力量而修行
+DESCRIPTION:「伊井野弥子无法去爱① / 想要谈谈文化祭 / 
+ 白银御行想吹气球」\n\n\n秀知院学园是秀才云集的菁英
+ 学校，在学生会中担任学生会副会长·四宫辉夜遇见了学
+ 生会长·白银御行。\n原以为这两个任谁都觉得很登对的
+ 天才应该很快就会在一起，但这两人却因为过高的自尊
+ 心导致他们终没能向对方告白。\n“该用什么办法才能让
+ 对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 8
-DTSTART;VALUE=DATE:20221123
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-8-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 8
+DTSTART;VALUE=DATE:20220527
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-8-684688
 CLASS:PUBLIC
-DESCRIPTION:「被盯上的魔剑士学园」\n\n\n主人公最强×压倒
- 的中二病×因误会造成的严肃喜剧！？\n“影之实力者”\
- n既不是主人公，也不是终极大BOSS，而是平日里彻底隐藏
- 自己的实力、在暗中介入事件并施展自身实力的存在。\n
- 憧憬着“影之实力者”、每天过着不起眼的生活、为了
- 追求力量而修行
+DESCRIPTION:「白银圭想卖弄 / 关于四宫辉夜② / 辉夜大小
+ 姐想要告白」\n\n\n秀知院学园是秀才云集的菁英学校，
+ 在学生会中担任学生会副会长·四宫辉夜遇见了学生会长
+ ·白银御行。\n原以为这两个任谁都觉得很登对的天才应
+ 该很快就会在一起，但这两人却因为过高的自尊心导致
+ 他们终没能向对方告白。\n“该用什么办法才能让对方向
+ 自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 9
-DTSTART;VALUE=DATE:20221130
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-9-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 9
+DTSTART;VALUE=DATE:20220603
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-9-684688
 CLASS:PUBLIC
-DESCRIPTION:「冒牌货的下场」\n\n\n主人公最强×压倒的中二
- 病×因误会造成的严肃喜剧！？\n“影之实力者”\n既不
- 是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己
- 的实力、在暗中介入事件并施展自身实力的存在。\n憧憬
- 着“影之实力者”、每天过着不起眼的生活、为了追求
- 力量而修行
+DESCRIPTION:「一年级的学生 春天 / 辉夜大小姐的文化祭 / 
+ 石上优的文化祭」\n\n\n秀知院学园是秀才云集的菁英学
+ 校，在学生会中担任学生会副会长·四宫辉夜遇见了学生
+ 会长·白银御行。\n原以为这两个任谁都觉得很登对的天
+ 才应该很快就会在一起，但这两人却因为过高的自尊心
+ 导致他们终没能向对方告白。\n“该用什么办法才能让对
+ 方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 10
-DTSTART;VALUE=DATE:20221207
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-10-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 10
+DTSTART;VALUE=DATE:20220610
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-10-684688
 CLASS:PUBLIC
-DESCRIPTION:「圣地·欺瞒之都」\n\n\n主人公最强×压倒的中
- 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
- 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
- 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
- 憬着“影之实力者”、每天过着不起眼的生活、为了追
- 求力量而修行
+DESCRIPTION:「慎原梢想玩耍 / 藤原千花想揭穿 / 白银御行
+ 的文化祭」\n\n\n秀知院学园是秀才云集的菁英学校，在
+ 学生会中担任学生会副会长·四宫辉夜遇见了学生会长·
+ 白银御行。\n原以为这两个任谁都觉得很登对的天才应该
+ 很快就会在一起，但这两人却因为过高的自尊心导致他
+ 们终没能向对方告白。\n“该用什么办法才能让对方向自
+ 己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 11
-DTSTART;VALUE=DATE:20221214
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-11-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 11
+DTSTART;VALUE=DATE:20220617
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-11-684688
 CLASS:PUBLIC
-DESCRIPTION:「女神的试炼」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「白银御行想让她告白4 / 子安燕想要拒绝 / 白
+ 银御行想让她告白5」\n\n\n秀知院学园是秀才云集的菁英
+ 学校，在学生会中担任学生会副会长·四宫辉夜遇见了学
+ 生会长·白银御行。\n原以为这两个任谁都觉得很登对的
+ 天才应该很快就会在一起，但这两人却因为过高的自尊
+ 心导致他们终没能向对方告白。\n“该用什么办法才能让
+ 对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 12
-DTSTART;VALUE=DATE:20221221
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-12-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 12
+DTSTART;VALUE=DATE:20220624
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-12-684688
 CLASS:PUBLIC
-DESCRIPTION:「记忆中的真实」\n\n\n主人公最强×压倒的中二
- 病×因误会造成的严肃喜剧！？\n“影之实力者”\n既不
- 是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己
- 的实力、在暗中介入事件并施展自身实力的存在。\n憧憬
- 着“影之实力者”、每天过着不起眼的生活、为了追求
- 力量而修行
+DESCRIPTION:「辉夜大小姐想要告白② / 辉夜大小姐想要告
+ 白③ / “双告白”前篇」\n\n\n秀知院学园是秀才云集的
+ 菁英学校，在学生会中担任学生会副会长·四宫辉夜遇见
+ 了学生会长·白银御行。\n原以为这两个任谁都觉得很登
+ 对的天才应该很快就会在一起，但这两人却因为过高的
+ 自尊心导致他们终没能向对方告白。\n“该用什么办法才
+ 能让对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 13
-DTSTART;VALUE=DATE:20221228
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-13-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 13
+DTSTART;VALUE=DATE:20220624
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-13-684688
 CLASS:PUBLIC
-DESCRIPTION:「为了消灭的血战」\n\n\n主人公最强×压倒的中
- 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
- 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
- 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
- 憬着“影之实力者”、每天过着不起眼的生活、为了追
- 求力量而修行
+DESCRIPTION:「“双告白”后篇 / 秀知院后夜祭」\n\n\n秀知
+ 院学园是秀才云集的菁英学校，在学生会中担任学生会
+ 副会长·四宫辉夜遇见了学生会长·白银御行。\n原以为
+ 这两个任谁都觉得很登对的天才应该很快就会在一起，
+ 但这两人却因为过高的自尊心导致他们终没能向对方告
+ 白。\n“该用什么办法才能让对方向自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 14
-DTSTART;VALUE=DATE:20230104
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-14-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 0
+DTSTART;VALUE=DATE:20220402
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「你的谎言，你的愿望」\n\n\n主人公最强×压倒
- 的中二病×因误会造成的严肃喜剧！？\n“影之实力者”\
- n既不是主人公，也不是终极大BOSS，而是平日里彻底隐藏
- 自己的实力、在暗中介入事件并施展自身实力的存在。\n
- 憧憬着“影之实力者”、每天过着不起眼的生活、为了
- 追求力量而修行
+DESCRIPTION:「」\n\n\n秀知院学园是秀才云集的菁英学校，
+ 在学生会中担任学生会副会长·四宫辉夜遇见了学生会长
+ ·白银御行。\n原以为这两个任谁都觉得很登对的天才应
+ 该很快就会在一起，但这两人却因为过高的自尊心导致
+ 他们终没能向对方告白。\n“该用什么办法才能让对方向
+ 自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 15
-DTSTART;VALUE=DATE:20230111
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-15-746322
+SUMMARY:辉夜大小姐想让我告白-超级浪漫- 0
+DTSTART;VALUE=DATE:20211021
+DTSTAMP;VALUE=DATE:20231010
+UID:317613-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「最强最弱的男人」\n\n\n主人公最强×压倒的中
- 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
- 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
- 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
- 憬着“影之实力者”、每天过着不起眼的生活、为了追
- 求力量而修行
+DESCRIPTION:「」\n\n\n秀知院学园是秀才云集的菁英学校，
+ 在学生会中担任学生会副会长·四宫辉夜遇见了学生会长
+ ·白银御行。\n原以为这两个任谁都觉得很登对的天才应
+ 该很快就会在一起，但这两人却因为过高的自尊心导致
+ 他们终没能向对方告白。\n“该用什么办法才能让对方向
+ 自己告
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 16
-DTSTART;VALUE=DATE:20230118
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-16-746322
+SUMMARY:间谍过家家 1
+DTSTART;VALUE=DATE:20220409
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「看不见的真意」\n\n\n主人公最强×压倒的中二
- 病×因误会造成的严肃喜剧！？\n“影之实力者”\n既不
- 是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己
- 的实力、在暗中介入事件并施展自身实力的存在。\n憧憬
- 着“影之实力者”、每天过着不起眼的生活、为了追求
- 力量而修行
+DESCRIPTION:「行动代号〈枭〉」\n\n\n每个人都有着不让任
+ 何人所看见的一面——\n这是一个世界各国在暗地里展开
+ 激烈情报战的时代。东国和西国已经处于冷战状态长达
+ 十余年之久。\n隶属于西国情报局对东科（WISE）的精英
+ 间谍“黄昏”，为了调查东国国家统一党总裁多诺万·德
+ 斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 17
-DTSTART;VALUE=DATE:20230125
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-17-746322
+SUMMARY:间谍过家家 2
+DTSTART;VALUE=DATE:20220416
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-2-684688
 CLASS:PUBLIC
-DESCRIPTION:「照进黑暗的月光」\n\n\n主人公最强×压倒的中
- 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
- 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
- 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
- 憬着“影之实力者”、每天过着不起眼的生活、为了追
- 求力量而修行
+DESCRIPTION:「找好扮演妻子的人吧」\n\n\n每个人都有着不
+ 让任何人所看见的一面——\n这是一个世界各国在暗地里
+ 展开激烈情报战的时代。东国和西国已经处于冷战状态
+ 长达十余年之久。\n隶属于西国情报局对东科（WISE）的
+ 精英间谍“黄昏”，为了调查东国国家统一党总裁多诺
+ 万·德斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 18
-DTSTART;VALUE=DATE:20230201
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-18-746322
+SUMMARY:间谍过家家 3
+DTSTART;VALUE=DATE:20220423
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-3-684688
 CLASS:PUBLIC
-DESCRIPTION:「瞬间的赌注」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「做好考前准备吧」\n\n\n每个人都有着不让任
+ 何人所看见的一面——\n这是一个世界各国在暗地里展开
+ 激烈情报战的时代。东国和西国已经处于冷战状态长达
+ 十余年之久。\n隶属于西国情报局对东科（WISE）的精英
+ 间谍“黄昏”，为了调查东国国家统一党总裁多诺万·德
+ 斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 19
-DTSTART;VALUE=DATE:20230208
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-19-746322
+SUMMARY:间谍过家家 4
+DTSTART;VALUE=DATE:20220430
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-4-684688
 CLASS:PUBLIC
-DESCRIPTION:「跳舞的人偶」\n\n\n主人公最强×压倒的中二病
- ×因误会造成的严肃喜剧！？\n“影之实力者”\n既不是
- 主人公，也不是终极大BOSS，而是平日里彻底隐藏自己的
- 实力、在暗中介入事件并施展自身实力的存在。\n憧憬着
- “影之实力者”、每天过着不起眼的生活、为了追求力
- 量而修行
+DESCRIPTION:「名校面试」\n\n\n每个人都有着不让任何人所
+ 看见的一面——\n这是一个世界各国在暗地里展开激烈情
+ 报战的时代。东国和西国已经处于冷战状态长达十余年
+ 之久。\n隶属于西国情报局对东科（WISE）的精英间谍“
+ 黄昏”，为了调查东国国家统一党总裁多诺万·德斯蒙这
+ 一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 20
-DTSTART;VALUE=DATE:20230215
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-20-746322
+SUMMARY:间谍过家家 5
+DTSTART;VALUE=DATE:20220507
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-5-684688
 CLASS:PUBLIC
-DESCRIPTION:「魔人降临」\n\n\n主人公最强×压倒的中二病×
- 因误会造成的严肃喜剧！？\n“影之实力者”\n既不是主
- 人公，也不是终极大BOSS，而是平日里彻底隐藏自己的实
- 力、在暗中介入事件并施展自身实力的存在。\n憧憬着“
- 影之实力者”、每天过着不起眼的生活、为了追求力量
- 而修行
+DESCRIPTION:「能否合格」\n\n\n每个人都有着不让任何人所
+ 看见的一面——\n这是一个世界各国在暗地里展开激烈情
+ 报战的时代。东国和西国已经处于冷战状态长达十余年
+ 之久。\n隶属于西国情报局对东科（WISE）的精英间谍“
+ 黄昏”，为了调查东国国家统一党总裁多诺万·德斯蒙这
+ 一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 0
-DTSTART;VALUE=DATE:20220927
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-0-746322
+SUMMARY:间谍过家家 6
+DTSTART;VALUE=DATE:20220514
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-6-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
- 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
- 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
- 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
- 者”、每天过着不起眼的生活、为了追求力量而修行
+DESCRIPTION:「好朋友大作战」\n\n\n每个人都有着不让任何
+ 人所看见的一面——\n这是一个世界各国在暗地里展开激
+ 烈情报战的时代。东国和西国已经处于冷战状态长达十
+ 余年之久。\n隶属于西国情报局对东科（WISE）的精英间
+ 谍“黄昏”，为了调查东国国家统一党总裁多诺万·德斯
+ 蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:想要成为影之实力者！ 0
-DTSTART;VALUE=DATE:20230222
-DTSTAMP;VALUE=DATE:20231009
-UID:329114-0-746322
+SUMMARY:间谍过家家 7
+DTSTART;VALUE=DATE:20220521
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-7-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
- 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
- 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
- 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
- 者”、每天过着不起眼的生活、为了追求力量而修行
+DESCRIPTION:「目标的次子」\n\n\n每个人都有着不让任何人
+ 所看见的一面——\n这是一个世界各国在暗地里展开激烈
+ 情报战的时代。东国和西国已经处于冷战状态长达十余
+ 年之久。\n隶属于西国情报局对东科（WISE）的精英间谍
+ “黄昏”，为了调查东国国家统一党总裁多诺万·德斯蒙
+ 这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 1
-DTSTART;VALUE=DATE:20221210
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-1-746322
+SUMMARY:间谍过家家 8
+DTSTART;VALUE=DATE:20220528
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-8-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「对秘密警察伪装作战」\n\n\n每个人都有着不
+ 让任何人所看见的一面——\n这是一个世界各国在暗地里
+ 展开激烈情报战的时代。东国和西国已经处于冷战状态
+ 长达十余年之久。\n隶属于西国情报局对东科（WISE）的
+ 精英间谍“黄昏”，为了调查东国国家统一党总裁多诺
+ 万·德斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 2
-DTSTART;VALUE=DATE:20221210
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-2-746322
+SUMMARY:间谍过家家 9
+DTSTART;VALUE=DATE:20220604
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-9-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「装出恩爱的模样吧」\n\n\n每个人都有着不让
+ 任何人所看见的一面——\n这是一个世界各国在暗地里展
+ 开激烈情报战的时代。东国和西国已经处于冷战状态长
+ 达十余年之久。\n隶属于西国情报局对东科（WISE）的精
+ 英间谍“黄昏”，为了调查东国国家统一党总裁多诺万·
+ 德斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 3
-DTSTART;VALUE=DATE:20221217
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-3-746322
+SUMMARY:间谍过家家 10
+DTSTART;VALUE=DATE:20220611
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-10-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「躲避球大作战」\n\n\n每个人都有着不让任何
+ 人所看见的一面——\n这是一个世界各国在暗地里展开激
+ 烈情报战的时代。东国和西国已经处于冷战状态长达十
+ 余年之久。\n隶属于西国情报局对东科（WISE）的精英间
+ 谍“黄昏”，为了调查东国国家统一党总裁多诺万·德斯
+ 蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 4
-DTSTART;VALUE=DATE:20221224
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-4-746322
+SUMMARY:间谍过家家 11
+DTSTART;VALUE=DATE:20220618
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-11-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「〈星（Stella）〉」\n\n\n每个人都有着不让任
+ 何人所看见的一面——\n这是一个世界各国在暗地里展开
+ 激烈情报战的时代。东国和西国已经处于冷战状态长达
+ 十余年之久。\n隶属于西国情报局对东科（WISE）的精英
+ 间谍“黄昏”，为了调查东国国家统一党总裁多诺万·德
+ 斯蒙这一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 5
-DTSTART;VALUE=DATE:20221231
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-5-746322
+SUMMARY:间谍过家家 12
+DTSTART;VALUE=DATE:20220625
+DTSTAMP;VALUE=DATE:20231010
+UID:329906-12-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「企鹅公园」\n\n\n每个人都有着不让任何人所
+ 看见的一面——\n这是一个世界各国在暗地里展开激烈情
+ 报战的时代。东国和西国已经处于冷战状态长达十余年
+ 之久。\n隶属于西国情报局对东科（WISE）的精英间谍“
+ 黄昏”，为了调查东国国家统一党总裁多诺万·德斯蒙这
+ 一威胁东西
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 6
-DTSTART;VALUE=DATE:20230107
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-6-746322
+SUMMARY:勇者，辞职不干了 1
+DTSTART;VALUE=DATE:20220405
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-1-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「下一个职场是魔王城」\n\n\n勇者雷欧从魔王
+ 军的侵略中拯救了世界。\n然而对于迎来和平的人族来说
+ ，他的强大实力是个极大的威胁。\n他最终被赶出了圣都
+ 。\n\n失去了地位、荣誉和安身之所，四处漂泊的勇者最
+ 终来到了……千疮百孔的魔王军？！\n\n不知是出于对人
+ 族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 7
-DTSTART;VALUE=DATE:20230114
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-7-746322
+SUMMARY:勇者，辞职不干了 2
+DTSTART;VALUE=DATE:20220412
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-2-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「做让明天的自己更轻松的工作」\n\n\n勇者雷
+ 欧从魔王军的侵略中拯救了世界。\n然而对于迎来和平的
+ 人族来说，他的强大实力是个极大的威胁。\n他最终被赶
+ 出了圣都。\n\n失去了地位、荣誉和安身之所，四处漂泊
+ 的勇者最终来到了……千疮百孔的魔王军？！\n\n不知是
+ 出于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 8
-DTSTART;VALUE=DATE:20230121
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-8-746322
+SUMMARY:勇者，辞职不干了 3
+DTSTART;VALUE=DATE:20220419
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-3-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「稍微用点心就能提高工作效率」\n\n\n勇者雷
+ 欧从魔王军的侵略中拯救了世界。\n然而对于迎来和平的
+ 人族来说，他的强大实力是个极大的威胁。\n他最终被赶
+ 出了圣都。\n\n失去了地位、荣誉和安身之所，四处漂泊
+ 的勇者最终来到了……千疮百孔的魔王军？！\n\n不知是
+ 出于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 9
-DTSTART;VALUE=DATE:20230128
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-9-746322
+SUMMARY:勇者，辞职不干了 4
+DTSTART;VALUE=DATE:20220426
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-4-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「地狱的饮酒会」\n\n\n勇者雷欧从魔王军的侵
+ 略中拯救了世界。\n然而对于迎来和平的人族来说，他的
+ 强大实力是个极大的威胁。\n他最终被赶出了圣都。\n\n
+ 失去了地位、荣誉和安身之所，四处漂泊的勇者最终来
+ 到了……千疮百孔的魔王军？！\n\n不知是出于对人族的
+ 愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 10
-DTSTART;VALUE=DATE:20230204
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-10-746322
+SUMMARY:勇者，辞职不干了 5
+DTSTART;VALUE=DATE:20220503
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-5-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「要是想辞职了 先找人聊聊」\n\n\n勇者雷欧从
+ 魔王军的侵略中拯救了世界。\n然而对于迎来和平的人族
+ 来说，他的强大实力是个极大的威胁。\n他最终被赶出了
+ 圣都。\n\n失去了地位、荣誉和安身之所，四处漂泊的勇
+ 者最终来到了……千疮百孔的魔王军？！\n\n不知是出于
+ 对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 11
-DTSTART;VALUE=DATE:20230211
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-11-746322
+SUMMARY:勇者，辞职不干了 6
+DTSTART;VALUE=DATE:20220510
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-6-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「倾听勇者长年的烦恼」\n\n\n勇者雷欧从魔王
+ 军的侵略中拯救了世界。\n然而对于迎来和平的人族来说
+ ，他的强大实力是个极大的威胁。\n他最终被赶出了圣都
+ 。\n\n失去了地位、荣誉和安身之所，四处漂泊的勇者最
+ 终来到了……千疮百孔的魔王军？！\n\n不知是出于对人
+ 族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 12
-DTSTART;VALUE=DATE:20230304
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-12-746322
+SUMMARY:勇者，辞职不干了 7
+DTSTART;VALUE=DATE:20220517
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-7-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「好战士不见得会成为好上司」\n\n\n勇者雷欧
+ 从魔王军的侵略中拯救了世界。\n然而对于迎来和平的人
+ 族来说，他的强大实力是个极大的威胁。\n他最终被赶出
+ 了圣都。\n\n失去了地位、荣誉和安身之所，四处漂泊的
+ 勇者最终来到了……千疮百孔的魔王军？！\n\n不知是出
+ 于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 13
-DTSTART;VALUE=DATE:20230311
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-13-746322
+SUMMARY:勇者，辞职不干了 8
+DTSTART;VALUE=DATE:20220524
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-8-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「西元2060年的东京某处」\n\n\n勇者雷欧从魔王
+ 军的侵略中拯救了世界。\n然而对于迎来和平的人族来说
+ ，他的强大实力是个极大的威胁。\n他最终被赶出了圣都
+ 。\n\n失去了地位、荣誉和安身之所，四处漂泊的勇者最
+ 终来到了……千疮百孔的魔王军？！\n\n不知是出于对人
+ 族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 14
-DTSTART;VALUE=DATE:20230318
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-14-746322
+SUMMARY:勇者，辞职不干了 9
+DTSTART;VALUE=DATE:20220531
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-9-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「勇者，想辞职」\n\n\n勇者雷欧从魔王军的侵
+ 略中拯救了世界。\n然而对于迎来和平的人族来说，他的
+ 强大实力是个极大的威胁。\n他最终被赶出了圣都。\n\n
+ 失去了地位、荣誉和安身之所，四处漂泊的勇者最终来
+ 到了……千疮百孔的魔王军？！\n\n不知是出于对人族的
+ 愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 15
-DTSTART;VALUE=DATE:20230325
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-15-746322
+SUMMARY:勇者，辞职不干了 10
+DTSTART;VALUE=DATE:20220607
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-10-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「不惜毁灭世界我也要拯救世界」\n\n\n勇者雷
+ 欧从魔王军的侵略中拯救了世界。\n然而对于迎来和平的
+ 人族来说，他的强大实力是个极大的威胁。\n他最终被赶
+ 出了圣都。\n\n失去了地位、荣誉和安身之所，四处漂泊
+ 的勇者最终来到了……千疮百孔的魔王军？！\n\n不知是
+ 出于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 0
-DTSTART;VALUE=DATE:20191127
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-0-746322
+SUMMARY:勇者，辞职不干了 11
+DTSTART;VALUE=DATE:20220614
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-11-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「勇者的资格」\n\n\n勇者雷欧从魔王军的侵略
+ 中拯救了世界。\n然而对于迎来和平的人族来说，他的强
+ 大实力是个极大的威胁。\n他最终被赶出了圣都。\n\n失
+ 去了地位、荣誉和安身之所，四处漂泊的勇者最终来到
+ 了……千疮百孔的魔王军？！\n\n不知是出于对人族的愤
+ 恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 0
-DTSTART;VALUE=DATE:20211120
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-0-746322
+SUMMARY:勇者，辞职不干了 12
+DTSTART;VALUE=DATE:20220621
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-12-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「勇者，辞职不干了」\n\n\n勇者雷欧从魔王军
+ 的侵略中拯救了世界。\n然而对于迎来和平的人族来说，
+ 他的强大实力是个极大的威胁。\n他最终被赶出了圣都。
+ \n\n失去了地位、荣誉和安身之所，四处漂泊的勇者最终
+ 来到了……千疮百孔的魔王军？！\n\n不知是出于对人族
+ 的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:三体 0
-DTSTART;VALUE=DATE:20221029
-DTSTAMP;VALUE=DATE:20231009
-UID:285437-0-746322
+SUMMARY:勇者，辞职不干了 0
+DTSTART;VALUE=DATE:20220624
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n无数细线横亘在星空之中，如同一把
- 巨大的刷子。三体星舰队将于400年后抵达。遥远蝴蝶扇
- 动着翅膀，也改变了罗辑的命运，轰然打开的门后是世
- 界中心——面壁计划开启。同时，智子所创建的破壁室
- 内，破壁人一一就位……
+DESCRIPTION:「不要忘记培训旅行的目的（前篇）」\n\n\n勇
+ 者雷欧从魔王军的侵略中拯救了世界。\n然而对于迎来和
+ 平的人族来说，他的强大实力是个极大的威胁。\n他最终
+ 被赶出了圣都。\n\n失去了地位、荣誉和安身之所，四处
+ 漂泊的勇者最终来到了……千疮百孔的魔王军？！\n\n不
+ 知是出于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 1
-DTSTART;VALUE=DATE:20230107
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-1-746322
+SUMMARY:勇者，辞职不干了 0
+DTSTART;VALUE=DATE:20220824
+DTSTAMP;VALUE=DATE:20231010
+UID:353657-0-684688
 CLASS:PUBLIC
-DESCRIPTION:「最强阴阳师」\n\n\n被称为天才阴阳师的玖峨
- 晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才
- 会获得幸福，通过自己创造的秘术·转生的咒语转生到了
- 异世界。\n于是，他获得了塞伊卡这个名字和新的人生。
- \n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 2
-DTSTART;VALUE=DATE:20230114
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「学园都市罗德内亚」\n\n\n被称为天才阴阳师
- 的玖峨晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个
- 人生才会获得幸福，通过自己创造的秘术·转生的咒语转
- 生到了异世界。\n于是，他获得了塞伊卡这个名字和新的
- 人生。\n“前世的自己不足之处是缺乏狡猾，今世要多圆
- 滑点儿，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 3
-DTSTART;VALUE=DATE:20230121
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「天启的勇者」\n\n\n被称为天才阴阳师的玖峨
- 晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才
- 会获得幸福，通过自己创造的秘术·转生的咒语转生到了
- 异世界。\n于是，他获得了塞伊卡这个名字和新的人生。
- \n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 4
-DTSTART;VALUE=DATE:20230128
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「地下迷宫陷阱」\n\n\n被称为天才阴阳师的玖
- 峨晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生
- 才会获得幸福，通过自己创造的秘术·转生的咒语转生到
- 了异世界。\n于是，他获得了塞伊卡这个名字和新的人生
- 。\n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点
- 儿，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 5
-DTSTART;VALUE=DATE:20230204
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「梅贝尔・克莱恩」\n\n\n被称为天才阴阳师的
- 玖峨晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人
- 生才会获得幸福，通过自己创造的秘术·转生的咒语转生
- 到了异世界。\n于是，他获得了塞伊卡这个名字和新的人
- 生。\n“前世的自己不足之处是缺乏狡猾，今世要多圆滑
- 点儿，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 6
-DTSTART;VALUE=DATE:20230211
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「各自的打算」\n\n\n被称为天才阴阳师的玖峨
- 晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才
- 会获得幸福，通过自己创造的秘术·转生的咒语转生到了
- 异世界。\n于是，他获得了塞伊卡这个名字和新的人生。
- \n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 7
-DTSTART;VALUE=DATE:20230218
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「兄妹」\n\n\n被称为天才阴阳师的玖峨晴嘉遭
- 到朝廷背叛，险些丧命。\n他认为只有下个人生才会获得
- 幸福，通过自己创造的秘术·转生的咒语转生到了异世界
- 。\n于是，他获得了塞伊卡这个名字和新的人生。\n“前
- 世的自己不足之处是缺乏狡猾，今世要多圆滑点儿，获
- 得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 8
-DTSTART;VALUE=DATE:20230225
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「伊法的心意」\n\n\n被称为天才阴阳师的玖峨
- 晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才
- 会获得幸福，通过自己创造的秘术·转生的咒语转生到了
- 异世界。\n于是，他获得了塞伊卡这个名字和新的人生。
- \n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 9
-DTSTART;VALUE=DATE:20230304
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「伊法的决心」\n\n\n被称为天才阴阳师的玖峨
- 晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才
- 会获得幸福，通过自己创造的秘术·转生的咒语转生到了
- 异世界。\n于是，他获得了塞伊卡这个名字和新的人生。
- \n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 10
-DTSTART;VALUE=DATE:20230311
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「圣皇女」\n\n\n被称为天才阴阳师的玖峨晴嘉
- 遭到朝廷背叛，险些丧命。\n他认为只有下个人生才会获
- 得幸福，通过自己创造的秘术·转生的咒语转生到了异世
- 界。\n于是，他获得了塞伊卡这个名字和新的人生。\n“
- 前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿，
- 获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 11
-DTSTART;VALUE=DATE:20230318
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「未来视」\n\n\n被称为天才阴阳师的玖峨晴嘉
- 遭到朝廷背叛，险些丧命。\n他认为只有下个人生才会获
- 得幸福，通过自己创造的秘术·转生的咒语转生到了异世
- 界。\n于是，他获得了塞伊卡这个名字和新的人生。\n“
- 前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿，
- 获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 12
-DTSTART;VALUE=DATE:20230325
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「最恶劣的魔王」\n\n\n被称为天才阴阳师的玖
- 峨晴嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生
- 才会获得幸福，通过自己创造的秘术·转生的咒语转生到
- 了异世界。\n于是，他获得了塞伊卡这个名字和新的人生
- 。\n“前世的自己不足之处是缺乏狡猾，今世要多圆滑点
- 儿，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:最强阴阳师的异世界转生记 13
-DTSTART;VALUE=DATE:20230401
-DTSTAMP;VALUE=DATE:20231009
-UID:366507-13-746322
-CLASS:PUBLIC
-DESCRIPTION:「新的旅程」\n\n\n被称为天才阴阳师的玖峨晴
- 嘉遭到朝廷背叛，险些丧命。\n他认为只有下个人生才会
- 获得幸福，通过自己创造的秘术·转生的咒语转生到了异
- 世界。\n于是，他获得了塞伊卡这个名字和新的人生。\n
- “前世的自己不足之处是缺乏狡猾，今世要多圆滑点儿
- ，获得幸福的
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 1
-DTSTART;VALUE=DATE:20230110
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「不相信人类的冒险者们」\n\n\n那一天，身经
- 百战的冒险者队伍所属的尼克，被如父亲一般仰慕的队
- 长宣布驱逐。在算账和知识方面支持着吊儿郎当的队友
- 的他，却被诬陷贪污。被恋人甩后彻底落魄了的尼克，
- 偶然在酒馆和同席的原贵族小姐、开除教籍的神官、女
- 龙战士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 2
-DTSTART;VALUE=DATE:20230117
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「最强的队伍成军？幸存者们！」\n\n\n那一天
- ，身经百战的冒险者队伍所属的尼克，被如父亲一般仰
- 慕的队长宣布驱逐。在算账和知识方面支持着吊儿郎当
- 的队友的他，却被诬陷贪污。被恋人甩后彻底落魄了的
- 尼克，偶然在酒馆和同席的原贵族小姐、开除教籍的神
- 官、女龙战士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 3
-DTSTART;VALUE=DATE:20230124
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「卡兰的秘密」\n\n\n那一天，身经百战的冒险
- 者队伍所属的尼克，被如父亲一般仰慕的队长宣布驱逐
- 。在算账和知识方面支持着吊儿郎当的队友的他，却被
- 诬陷贪污。被恋人甩后彻底落魄了的尼克，偶然在酒馆
- 和同席的原贵族小姐、开除教籍的神官、女龙战士意气
- 相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 4
-DTSTART;VALUE=DATE:20230131
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「羁绊迷宫」\n\n\n那一天，身经百战的冒险者
- 队伍所属的尼克，被如父亲一般仰慕的队长宣布驱逐。
- 在算账和知识方面支持着吊儿郎当的队友的他，却被诬
- 陷贪污。被恋人甩后彻底落魄了的尼克，偶然在酒馆和
- 同席的原贵族小姐、开除教籍的神官、女龙战士意气相
- 投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 5
-DTSTART;VALUE=DATE:20230207
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「铁虎队、狭路相逢。」\n\n\n那一天，身经百
- 战的冒险者队伍所属的尼克，被如父亲一般仰慕的队长
- 宣布驱逐。在算账和知识方面支持着吊儿郎当的队友的
- 他，却被诬陷贪污。被恋人甩后彻底落魄了的尼克，偶
- 然在酒馆和同席的原贵族小姐、开除教籍的神官、女龙
- 战士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 6
-DTSTART;VALUE=DATE:20230214
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「算术徒手拳击」\n\n\n那一天，身经百战的冒
- 险者队伍所属的尼克，被如父亲一般仰慕的队长宣布驱
- 逐。在算账和知识方面支持着吊儿郎当的队友的他，却
- 被诬陷贪污。被恋人甩后彻底落魄了的尼克，偶然在酒
- 馆和同席的原贵族小姐、开除教籍的神官、女龙战士意
- 气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 7
-DTSTART;VALUE=DATE:20230221
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「赌博指南」\n\n\n那一天，身经百战的冒险者
- 队伍所属的尼克，被如父亲一般仰慕的队长宣布驱逐。
- 在算账和知识方面支持着吊儿郎当的队友的他，却被诬
- 陷贪污。被恋人甩后彻底落魄了的尼克，偶然在酒馆和
- 同席的原贵族小姐、开除教籍的神官、女龙战士意气相
- 投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 8
-DTSTART;VALUE=DATE:20230228
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「美丽的圣骑士大人」\n\n\n那一天，身经百战
- 的冒险者队伍所属的尼克，被如父亲一般仰慕的队长宣
- 布驱逐。在算账和知识方面支持着吊儿郎当的队友的他
- ，却被诬陷贪污。被恋人甩后彻底落魄了的尼克，偶然
- 在酒馆和同席的原贵族小姐、开除教籍的神官、女龙战
- 士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 9
-DTSTART;VALUE=DATE:20230307
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「迷宫都市传说 踏步者！？」\n\n\n那一天，身
- 经百战的冒险者队伍所属的尼克，被如父亲一般仰慕的
- 队长宣布驱逐。在算账和知识方面支持着吊儿郎当的队
- 友的他，却被诬陷贪污。被恋人甩后彻底落魄了的尼克
- ，偶然在酒馆和同席的原贵族小姐、开除教籍的神官、
- 女龙战士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 10
-DTSTART;VALUE=DATE:20230314
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「迷宫搜查网」\n\n\n那一天，身经百战的冒险
- 者队伍所属的尼克，被如父亲一般仰慕的队长宣布驱逐
- 。在算账和知识方面支持着吊儿郎当的队友的他，却被
- 诬陷贪污。被恋人甩后彻底落魄了的尼克，偶然在酒馆
- 和同席的原贵族小姐、开除教籍的神官、女龙战士意气
- 相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 11
-DTSTART;VALUE=DATE:20230321
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「幸存者们 VS 踏步者」\n\n\n那一天，身经百战
- 的冒险者队伍所属的尼克，被如父亲一般仰慕的队长宣
- 布驱逐。在算账和知识方面支持着吊儿郎当的队友的他
- ，却被诬陷贪污。被恋人甩后彻底落魄了的尼克，偶然
- 在酒馆和同席的原贵族小姐、开除教籍的神官、女龙战
- 士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:不相信人类的冒险者们好像要去拯救世界 12
-DTSTART;VALUE=DATE:20230328
-DTSTAMP;VALUE=DATE:20231009
-UID:346425-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「冒险者们还无法拯救世界」\n\n\n那一天，身
- 经百战的冒险者队伍所属的尼克，被如父亲一般仰慕的
- 队长宣布驱逐。在算账和知识方面支持着吊儿郎当的队
- 友的他，却被诬陷贪污。被恋人甩后彻底落魄了的尼克
- ，偶然在酒馆和同席的原贵族小姐、开除教籍的神官、
- 女龙战士意气相投。三个人都是遭人背叛，
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 1
-DTSTART;VALUE=DATE:20230105
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与不得了的身体」\n\n\n某天，家里蹲的
- 啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！
- ？正当真寻不知道镜子里的美少女是自己而陷入混乱的
- 时候，跳级进入大学的科学家妹妹绪山美波里出现了。
- 她透露在饮料里加了一种奇怪的药物！\n真寻最近2年一
- 直疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 2
-DTSTART;VALUE=DATE:20230112
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与女孩子之日」\n\n\n某天，家里蹲的啃
- 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
- 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
- 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
- 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
- 疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 3
-DTSTART;VALUE=DATE:20230119
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与未知的遭遇」\n\n\n某天，家里蹲的啃
- 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
- 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
- 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
- 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
- 疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 4
-DTSTART;VALUE=DATE:20230126
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与新朋友」\n\n\n某天，家里蹲的啃老族
- 绪山真寻一觉醒来发现自己变成了“女孩子”！？正当
- 真寻不知道镜子里的美少女是自己而陷入混乱的时候，
- 跳级进入大学的科学家妹妹绪山美波里出现了。她透露
- 在饮料里加了一种奇怪的药物！\n真寻最近2年一直疯狂
- 宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 5
-DTSTART;VALUE=DATE:20230202
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与辅导与邀约」\n\n\n某天，家里蹲的啃
- 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
- 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
- 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
- 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
- 疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 6
-DTSTART;VALUE=DATE:20230209
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与再次成为国中生」\n\n\n某天，家里蹲
- 的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”
- ！？正当真寻不知道镜子里的美少女是自己而陷入混乱
- 的时候，跳级进入大学的科学家妹妹绪山美波里出现了
- 。她透露在饮料里加了一种奇怪的药物！\n真寻最近2年
- 一直疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 7
-DTSTART;VALUE=DATE:20230216
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与角色扮演」\n\n\n某天，家里蹲的啃老
- 族绪山真寻一觉醒来发现自己变成了“女孩子”！？正
- 当真寻不知道镜子里的美少女是自己而陷入混乱的时候
- ，跳级进入大学的科学家妹妹绪山美波里出现了。她透
- 露在饮料里加了一种奇怪的药物！\n真寻最近2年一直疯
- 狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 8
-DTSTART;VALUE=DATE:20230223
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与初次女孩聚会」\n\n\n某天，家里蹲的
- 啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！
- ？正当真寻不知道镜子里的美少女是自己而陷入混乱的
- 时候，跳级进入大学的科学家妹妹绪山美波里出现了。
- 她透露在饮料里加了一种奇怪的药物！\n真寻最近2年一
- 直疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 9
-DTSTART;VALUE=DATE:20230302
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与新年旧岁」\n\n\n某天，家里蹲的啃老
- 族绪山真寻一觉醒来发现自己变成了“女孩子”！？正
- 当真寻不知道镜子里的美少女是自己而陷入混乱的时候
- ，跳级进入大学的科学家妹妹绪山美波里出现了。她透
- 露在饮料里加了一种奇怪的药物！\n真寻最近2年一直疯
- 狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 10
-DTSTART;VALUE=DATE:20230309
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与胸部与自我认知」\n\n\n某天，家里蹲
- 的啃老族绪山真寻一觉醒来发现自己变成了“女孩子”
- ！？正当真寻不知道镜子里的美少女是自己而陷入混乱
- 的时候，跳级进入大学的科学家妹妹绪山美波里出现了
- 。她透露在饮料里加了一种奇怪的药物！\n真寻最近2年
- 一直疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 11
-DTSTART;VALUE=DATE:20230316
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻与女生的嗜好」\n\n\n某天，家里蹲的啃
- 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
- 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
- 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
- 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
- 疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 12
-DTSTART;VALUE=DATE:20230323
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「真寻的结束与今后」\n\n\n某天，家里蹲的啃
- 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
- 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
- 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
- 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
- 疯狂宅家玩小黄游，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20230323
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATE:20231009
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 1
-DTSTART;VALUE=DATE:20230106
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「握手。」\n\n\n醒来后，发现自己变成了心仪
- 的同班同学 犬饲 养的狗！在学校面无表情的她，其实超
- 爱狗的！散步、洗澡、上厕所——被当作狗饲养的每一
- 天突发事件都不断。虽然想早点变回人类，但是被喜欢
- 的人彻底爱着的生活是幸福的......再这样下去，身心都
- 会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 2
-DTSTART;VALUE=DATE:20230113
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「散步。」\n\n\n醒来后，发现自己变成了心仪
- 的同班同学 犬饲 养的狗！在学校面无表情的她，其实超
- 爱狗的！散步、洗澡、上厕所——被当作狗饲养的每一
- 天突发事件都不断。虽然想早点变回人类，但是被喜欢
- 的人彻底爱着的生活是幸福的......再这样下去，身心都
- 会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 3
-DTSTART;VALUE=DATE:20230120
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「害怕的猫咪。」\n\n\n醒来后，发现自己变成
- 了心仪的同班同学 犬饲 养的狗！在学校面无表情的她，
- 其实超爱狗的！散步、洗澡、上厕所——被当作狗饲养
- 的每一天突发事件都不断。虽然想早点变回人类，但是
- 被喜欢的人彻底爱着的生活是幸福的......再这样下去，
- 身心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 4
-DTSTART;VALUE=DATE:20230127
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「狗狗的想法。」\n\n\n醒来后，发现自己变成
- 了心仪的同班同学 犬饲 养的狗！在学校面无表情的她，
- 其实超爱狗的！散步、洗澡、上厕所——被当作狗饲养
- 的每一天突发事件都不断。虽然想早点变回人类，但是
- 被喜欢的人彻底爱着的生活是幸福的......再这样下去，
- 身心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 5
-DTSTART;VALUE=DATE:20230203
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「逃脱。」\n\n\n醒来后，发现自己变成了心仪
- 的同班同学 犬饲 养的狗！在学校面无表情的她，其实超
- 爱狗的！散步、洗澡、上厕所——被当作狗饲养的每一
- 天突发事件都不断。虽然想早点变回人类，但是被喜欢
- 的人彻底爱着的生活是幸福的......再这样下去，身心都
- 会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 6
-DTSTART;VALUE=DATE:20230210
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「寂寞的兔。」\n\n\n醒来后，发现自己变成了
- 心仪的同班同学 犬饲 养的狗！在学校面无表情的她，其
- 实超爱狗的！散步、洗澡、上厕所——被当作狗饲养的
- 每一天突发事件都不断。虽然想早点变回人类，但是被
- 喜欢的人彻底爱着的生活是幸福的......再这样下去，身
- 心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 7
-DTSTART;VALUE=DATE:20230217
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「狗屋对决。」\n\n\n醒来后，发现自己变成了
- 心仪的同班同学 犬饲 养的狗！在学校面无表情的她，其
- 实超爱狗的！散步、洗澡、上厕所——被当作狗饲养的
- 每一天突发事件都不断。虽然想早点变回人类，但是被
- 喜欢的人彻底爱着的生活是幸福的......再这样下去，身
- 心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 8
-DTSTART;VALUE=DATE:20230224
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「学园潜入。」\n\n\n醒来后，发现自己变成了
- 心仪的同班同学 犬饲 养的狗！在学校面无表情的她，其
- 实超爱狗的！散步、洗澡、上厕所——被当作狗饲养的
- 每一天突发事件都不断。虽然想早点变回人类，但是被
- 喜欢的人彻底爱着的生活是幸福的......再这样下去，身
- 心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 9
-DTSTART;VALUE=DATE:20230303
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「狗狗大恐慌。」\n\n\n醒来后，发现自己变成
- 了心仪的同班同学 犬饲 养的狗！在学校面无表情的她，
- 其实超爱狗的！散步、洗澡、上厕所——被当作狗饲养
- 的每一天突发事件都不断。虽然想早点变回人类，但是
- 被喜欢的人彻底爱着的生活是幸福的......再这样下去，
- 身心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 10
-DTSTART;VALUE=DATE:20230310
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「波奇太。」\n\n\n醒来后，发现自己变成了心
- 仪的同班同学 犬饲 养的狗！在学校面无表情的她，其实
- 超爱狗的！散步、洗澡、上厕所——被当作狗饲养的每
- 一天突发事件都不断。虽然想早点变回人类，但是被喜
- 欢的人彻底爱着的生活是幸福的......再这样下去，身心
- 都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 11
-DTSTART;VALUE=DATE:20230317
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「狗汤。」\n\n\n醒来后，发现自己变成了心仪
- 的同班同学 犬饲 养的狗！在学校面无表情的她，其实超
- 爱狗的！散步、洗澡、上厕所——被当作狗饲养的每一
- 天突发事件都不断。虽然想早点变回人类，但是被喜欢
- 的人彻底爱着的生活是幸福的......再这样下去，身心都
- 会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 12
-DTSTART;VALUE=DATE:20230324
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「初吻。」\n\n\n醒来后，发现自己变成了心仪
- 的同班同学 犬饲 养的狗！在学校面无表情的她，其实超
- 爱狗的！散步、洗澡、上厕所——被当作狗饲养的每一
- 天突发事件都不断。虽然想早点变回人类，但是被喜欢
- 的人彻底爱着的生活是幸福的......再这样下去，身心都
- 会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 0
-DTSTART;VALUE=DATE:20230105
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
- 同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
- ！散步、洗澡、上厕所——被当作狗饲养的每一天突发
- 事件都不断。虽然想早点变回人类，但是被喜欢的人彻
- 底爱着的生活是幸福的......再这样下去，身心都会变成
- 狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 0
-DTSTART;VALUE=DATE:20230329
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「狗狗游泳池。」\n\n\n醒来后，发现自己变成
- 了心仪的同班同学 犬饲 养的狗！在学校面无表情的她，
- 其实超爱狗的！散步、洗澡、上厕所——被当作狗饲养
- 的每一天突发事件都不断。虽然想早点变回人类，但是
- 被喜欢的人彻底爱着的生活是幸福的......再这样下去，
- 身心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生而为狗，我很幸福 0
-DTSTART;VALUE=DATE:20230426
-DTSTAMP;VALUE=DATE:20231009
-UID:374319-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「学园祭约会。」\n\n\n醒来后，发现自己变成
- 了心仪的同班同学 犬饲 养的狗！在学校面无表情的她，
- 其实超爱狗的！散步、洗澡、上厕所——被当作狗饲养
- 的每一天突发事件都不断。虽然想早点变回人类，但是
- 被喜欢的人彻底爱着的生活是幸福的......再这样下去，
- 身心都会变成狗！
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 1
-DTSTART;VALUE=DATE:20230106
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「绝望之诗（Amphis Baena）」\n\n\n噩梦不会结束
- 。\n绝望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳
- 特的战斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\
- n结果来到了所有冒险者都畏惧的迷宫深渊——深层。\n
- 贝尔他们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决
- 死之行的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 2
-DTSTART;VALUE=DATE:20230113
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「牺牲（Morugu）」\n\n\n噩梦不会结束。\n绝望招
- 来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战斗中
- ，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果来到
- 了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他们伤
- 痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行的过
- 程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 3
-DTSTART;VALUE=DATE:20230120
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「友（Daphne Lauros）」\n\n\n噩梦不会结束。\n绝
- 望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战
- 斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果
- 来到了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他
- 们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行
- 的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 4
-DTSTART;VALUE=DATE:20230127
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「不冷（Ignis）」\n\n\n噩梦不会结束。\n绝望招
- 来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战斗中
- ，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果来到
- 了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他们伤
- 痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行的过
- 程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 5
-DTSTART;VALUE=DATE:20230203
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「始高（Welf Crozzo）」\n\n\n噩梦不会结束。\n绝
- 望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战
- 斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果
- 来到了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他
- 们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行
- 的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 6
-DTSTART;VALUE=DATE:20230210
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「白色迷宫（White Palace）」\n\n\n噩梦不会结束
- 。\n绝望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳
- 特的战斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\
- n结果来到了所有冒险者都畏惧的迷宫深渊——深层。\n
- 贝尔他们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决
- 死之行的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 7
-DTSTART;VALUE=DATE:20230217
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「迷宫决死行（Desperate）」\n\n\n噩梦不会结束
- 。\n绝望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳
- 特的战斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\
- n结果来到了所有冒险者都畏惧的迷宫深渊——深层。\n
- 贝尔他们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决
- 死之行的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 8
-DTSTART;VALUE=DATE:20230224
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「竞技场（Koroshiamu）」\n\n\n噩梦不会结束。\n
- 绝望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的
- 战斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结
- 果来到了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔
- 他们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之
- 行的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 9
-DTSTART;VALUE=DATE:20230303
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「散华（Asutorea Famiria）」\n\n\n噩梦不会结束。\
- n绝望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳特
- 的战斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n
- 结果来到了所有冒险者都畏惧的迷宫深渊——深层。\n贝
- 尔他们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死
- 之行的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 10
-DTSTART;VALUE=DATE:20230310
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「白日梦（Daydream）」\n\n\n噩梦不会结束。\n绝
- 望招来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战
- 斗中，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果
- 来到了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他
- 们伤痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行
- 的过程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇 11
-DTSTART;VALUE=DATE:20230317
-DTSTAMP;VALUE=DATE:20231009
-UID:402223-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「星华（Luvia）」\n\n\n噩梦不会结束。\n绝望招
- 来毁灭，厄灾招来祸害。\n在与破坏者札格纳特的战斗中
- ，贝尔·克朗尼和琉·璃昂消失在深渊之中。\n结果来到
- 了所有冒险者都畏惧的迷宫深渊——深层。\n贝尔他们伤
- 痕累累，孤立无援，厄灾迫在眉睫。\n迷宫决死之行的过
- 程中，被
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 1
-DTSTART;VALUE=DATE:20221008
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-1-746322
-CLASS:PUBLIC
-DESCRIPTION:「问题儿童班的新学期」\n\n\n魔界の大悪魔サ
- リバンの孫となり彼が理事長を務める悪魔に通うこと
- になった\n人間の少年・鈴木入間の、悪魔学校での奮闘
- と成長を描く\nアニメ「魔入りました！入間くん」\n\n
- 第3シリーズでは入間に次なる試練が——\nそれは魔界
- の巨大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 2
-DTSTART;VALUE=DATE:20221015
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-2-746322
-CLASS:PUBLIC
-DESCRIPTION:「师父芭琪可」\n\n\n魔界の大悪魔サリバンの
- 孫となり彼が理事長を務める悪魔に通うことになった\n
- 人間の少年・鈴木入間の、悪魔学校での奮闘と成長を
- 描く\nアニメ「魔入りました！入間くん」\n\n第3シリー
- ズでは入間に次なる試練が——\nそれは魔界の巨大ジャ
- ングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 3
-DTSTART;VALUE=DATE:20221022
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-3-746322
-CLASS:PUBLIC
-DESCRIPTION:「入间的真心话」\n\n\n魔界の大悪魔サリバン
- の孫となり彼が理事長を務める悪魔に通うことになっ
- た\n人間の少年・鈴木入間の、悪魔学校での奮闘と成長
- を描く\nアニメ「魔入りました！入間くん」\n\n第3シリ
- ーズでは入間に次なる試練が——\nそれは魔界の巨大ジ
- ャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 4
-DTSTART;VALUE=DATE:20221029
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-4-746322
-CLASS:PUBLIC
-DESCRIPTION:「收获祭的狼烟」\n\n\n魔界の大悪魔サリバン
- の孫となり彼が理事長を務める悪魔に通うことになっ
- た\n人間の少年・鈴木入間の、悪魔学校での奮闘と成長
- を描く\nアニメ「魔入りました！入間くん」\n\n第3シリ
- ーズでは入間に次なる試練が——\nそれは魔界の巨大ジ
- ャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 5
-DTSTART;VALUE=DATE:20221105
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-5-746322
-CLASS:PUBLIC
-DESCRIPTION:「狡猾的恶魔」\n\n\n魔界の大悪魔サリバンの
- 孫となり彼が理事長を務める悪魔に通うことになった\n
- 人間の少年・鈴木入間の、悪魔学校での奮闘と成長を
- 描く\nアニメ「魔入りました！入間くん」\n\n第3シリー
- ズでは入間に次なる試練が——\nそれは魔界の巨大ジャ
- ングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 6
-DTSTART;VALUE=DATE:20221112
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-6-746322
-CLASS:PUBLIC
-DESCRIPTION:「魔性的纯真」\n\n\n魔界の大悪魔サリバンの
- 孫となり彼が理事長を務める悪魔に通うことになった\n
- 人間の少年・鈴木入間の、悪魔学校での奮闘と成長を
- 描く\nアニメ「魔入りました！入間くん」\n\n第3シリー
- ズでは入間に次なる試練が——\nそれは魔界の巨大ジャ
- ングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 7
-DTSTART;VALUE=DATE:20221119
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-7-746322
-CLASS:PUBLIC
-DESCRIPTION:「克拉拉的玩具箱／叫声响彻夜晚」\n\n\n魔界
- の大悪魔サリバンの孫となり彼が理事長を務める悪魔
- に通うことになった\n人間の少年・鈴木入間の、悪魔学
- 校での奮闘と成長を描く\nアニメ「魔入りました！入間
- くん」\n\n第3シリーズでは入間に次なる試練が——\nそ
- れは魔界の巨大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 8
-DTSTART;VALUE=DATE:20221126
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-8-746322
-CLASS:PUBLIC
-DESCRIPTION:「能不能找到100个同伴呢／引以为豪的徒弟们
- 」\n\n\n魔界の大悪魔サリバンの孫となり彼が理事長を
- 務める悪魔に通うことになった\n人間の少年・鈴木入間
- の、悪魔学校での奮闘と成長を描く\nアニメ「魔入りま
- した！入間くん」\n\n第3シリーズでは入間に次なる試練
- が——\nそれは魔界の巨大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 9
-DTSTART;VALUE=DATE:20221203
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-9-746322
-CLASS:PUBLIC
-DESCRIPTION:「多洛多洛兄弟的挑拨」\n\n\n魔界の大悪魔サ
- リバンの孫となり彼が理事長を務める悪魔に通うこと
- になった\n人間の少年・鈴木入間の、悪魔学校での奮闘
- と成長を描く\nアニメ「魔入りました！入間くん」\n\n
- 第3シリーズでは入間に次なる試練が——\nそれは魔界
- の巨大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 10
-DTSTART;VALUE=DATE:20221210
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「我所认识的入间」\n\n\n魔界の大悪魔サリバ
- ンの孫となり彼が理事長を務める悪魔に通うことにな
- った\n人間の少年・鈴木入間の、悪魔学校での奮闘と成
- 長を描く\nアニメ「魔入りました！入間くん」\n\n第3シ
- リーズでは入間に次なる試練が——\nそれは魔界の巨大
- ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 11
-DTSTART;VALUE=DATE:20221217
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「魔神托托」\n\n\n魔界の大悪魔サリバンの孫
- となり彼が理事長を務める悪魔に通うことになった\n人
- 間の少年・鈴木入間の、悪魔学校での奮闘と成長を描
- く\nアニメ「魔入りました！入間くん」\n\n第3シリーズ
- では入間に次なる試練が——\nそれは魔界の巨大ジャン
- グルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 12
-DTSTART;VALUE=DATE:20221224
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「将愿望寄托于弓矢」\n\n\n魔界の大悪魔サリ
- バンの孫となり彼が理事長を務める悪魔に通うことに
- なった\n人間の少年・鈴木入間の、悪魔学校での奮闘と
- 成長を描く\nアニメ「魔入りました！入間くん」\n\n第3
- シリーズでは入間に次なる試練が——\nそれは魔界の巨
- 大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 13
-DTSTART;VALUE=DATE:20230107
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-13-746322
-CLASS:PUBLIC
-DESCRIPTION:「只属于我的魔术」\n\n\n魔界の大悪魔サリバ
- ンの孫となり彼が理事長を務める悪魔に通うことにな
- った\n人間の少年・鈴木入間の、悪魔学校での奮闘と成
- 長を描く\nアニメ「魔入りました！入間くん」\n\n第3シ
- リーズでは入間に次なる試練が——\nそれは魔界の巨大
- ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 14
-DTSTART;VALUE=DATE:20230114
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-14-746322
-CLASS:PUBLIC
-DESCRIPTION:「利德的苦恼」\n\n\n魔界の大悪魔サリバンの
- 孫となり彼が理事長を務める悪魔に通うことになった\n
- 人間の少年・鈴木入間の、悪魔学校での奮闘と成長を
- 描く\nアニメ「魔入りました！入間くん」\n\n第3シリー
- ズでは入間に次なる試練が——\nそれは魔界の巨大ジャ
- ングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 15
-DTSTART;VALUE=DATE:20230121
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-15-746322
-CLASS:PUBLIC
-DESCRIPTION:「弓箭手真正的价值」\n\n\n魔界の大悪魔サリ
- バンの孫となり彼が理事長を務める悪魔に通うことに
- なった\n人間の少年・鈴木入間の、悪魔学校での奮闘と
- 成長を描く\nアニメ「魔入りました！入間くん」\n\n第3
- シリーズでは入間に次なる試練が——\nそれは魔界の巨
- 大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 16
-DTSTART;VALUE=DATE:20230128
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-16-746322
-CLASS:PUBLIC
-DESCRIPTION:「收获祭落幕」\n\n\n魔界の大悪魔サリバンの
- 孫となり彼が理事長を務める悪魔に通うことになった\n
- 人間の少年・鈴木入間の、悪魔学校での奮闘と成長を
- 描く\nアニメ「魔入りました！入間くん」\n\n第3シリー
- ズでは入間に次なる試練が——\nそれは魔界の巨大ジャ
- ングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 17
-DTSTART;VALUE=DATE:20230204
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-17-746322
-CLASS:PUBLIC
-DESCRIPTION:「传说之叶」\n\n\n魔界の大悪魔サリバンの孫
- となり彼が理事長を務める悪魔に通うことになった\n人
- 間の少年・鈴木入間の、悪魔学校での奮闘と成長を描
- く\nアニメ「魔入りました！入間くん」\n\n第3シリーズ
- では入間に次なる試練が——\nそれは魔界の巨大ジャン
- グルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 18
-DTSTART;VALUE=DATE:20230211
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-18-746322
-CLASS:PUBLIC
-DESCRIPTION:「欢迎回来」\n\n\n魔界の大悪魔サリバンの孫
- となり彼が理事長を務める悪魔に通うことになった\n人
- 間の少年・鈴木入間の、悪魔学校での奮闘と成長を描
- く\nアニメ「魔入りました！入間くん」\n\n第3シリーズ
- では入間に次なる試練が——\nそれは魔界の巨大ジャン
- グルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 19
-DTSTART;VALUE=DATE:20230218
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-19-746322
-CLASS:PUBLIC
-DESCRIPTION:「教师们的宴会」\n\n\n魔界の大悪魔サリバン
- の孫となり彼が理事長を務める悪魔に通うことになっ
- た\n人間の少年・鈴木入間の、悪魔学校での奮闘と成長
- を描く\nアニメ「魔入りました！入間くん」\n\n第3シリ
- ーズでは入間に次なる試練が——\nそれは魔界の巨大ジ
- ャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 20
-DTSTART;VALUE=DATE:20230225
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-20-746322
-CLASS:PUBLIC
-DESCRIPTION:「恶友／真心料理教室」\n\n\n魔界の大悪魔サ
- リバンの孫となり彼が理事長を務める悪魔に通うこと
- になった\n人間の少年・鈴木入間の、悪魔学校での奮闘
- と成長を描く\nアニメ「魔入りました！入間くん」\n\n
- 第3シリーズでは入間に次なる試練が——\nそれは魔界
- の巨大ジャングルに
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:入间同学入魔了 第三季 21
-DTSTART;VALUE=DATE:20230304
-DTSTAMP;VALUE=DATE:20231009
-UID:348699-21-746322
-CLASS:PUBLIC
-DESCRIPTION:「对朋友说的话」\n\n\n魔界の大悪魔サリバン
- の孫となり彼が理事長を務める悪魔に通うことになっ
- た\n人間の少年・鈴木入間の、悪魔学校での奮闘と成長
- を描く\nアニメ「魔入りました！入間くん」\n\n第3シリ
- ーズでは入間に次なる試練が——\nそれは魔界の巨大ジ
- ャングルに
+DESCRIPTION:「不要忘记培训旅行的目的（后篇）」\n\n\n勇
+ 者雷欧从魔王军的侵略中拯救了世界。\n然而对于迎来和
+ 平的人族来说，他的强大实力是个极大的威胁。\n他最终
+ 被赶出了圣都。\n\n失去了地位、荣誉和安身之所，四处
+ 漂泊的勇者最终来到了……千疮百孔的魔王军？！\n\n不
+ 知是出于对人族的愤恨抑或是
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
